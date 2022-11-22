@@ -61,3 +61,4 @@ VERSION = '0.0.23'  # temp
 # retry count increased to 7
 # debug - 9301
 # TODO: optimize later
+VERSION = '0.0.10'  # temp
