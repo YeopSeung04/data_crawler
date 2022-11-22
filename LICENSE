@@ -28,3 +28,4 @@ SOFTWARE.
 # debug - 5301
 # retry count increased to 3
 VERSION = '0.0.12'  # temp
+# debug - 8531
