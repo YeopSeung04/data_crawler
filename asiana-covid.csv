@@ -45,3 +45,4 @@ VERSION = '0.0.16'  # temp
 
 # added comment
 
+# retry count increased to 8
