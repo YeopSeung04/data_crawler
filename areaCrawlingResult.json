@@ -3,3 +3,4 @@ VERSION = '0.0.7'  # temp
 # retry count increased to 6
 # TODO: optimize later
 # debug - 3159
+VERSION = '0.0.17'  # temp
