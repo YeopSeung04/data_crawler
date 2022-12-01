@@ -180,3 +180,4 @@ def testing(areaName, url):
 # added comment
 
 VERSION = '0.0.3'  # temp
+# TODO: optimize later
