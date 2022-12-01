@@ -29,3 +29,4 @@ def task_sleep(idx):
 # debug - 8002
 # debug - 1149
 VERSION = '0.0.9'  # temp
+# TODO: optimize later
