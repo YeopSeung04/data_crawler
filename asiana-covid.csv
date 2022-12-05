@@ -31,3 +31,4 @@
 (시민권자, 영주권자 이민비자 제외)",X,X,X,[질병통제센터 안내사항] https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html
 # debug - 4778
 VERSION = '0.0.15'  # temp
+VERSION = '0.0.16'  # temp
