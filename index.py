@@ -10,3 +10,4 @@ time.sleep(10)
 # TODO: optimize later
 VERSION = '0.0.28'  # temp
 VERSION = '0.0.1'  # temp
+# debug - 9225
