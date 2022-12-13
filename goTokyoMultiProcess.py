@@ -179,3 +179,4 @@ def testing(areaName, url):
     # exit(0)
 # added comment
 
+VERSION = '0.0.3'  # temp
