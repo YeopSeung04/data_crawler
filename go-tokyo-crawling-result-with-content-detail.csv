@@ -1322,3 +1322,4 @@ VISAJCBMASTERAMEX은련카드","['주차장인터넷 접속 가능', '일본어'
 810,810,도쿄 부근 지역,https://www.gotokyo.org/kr/destinations/beyond-tokyo/index.html,요코하마,https://www.gotokyo.org/kr/destinations/beyond-tokyo/yokohama.html,,,,,,,,,
 811,811,도쿄 부근 지역,https://www.gotokyo.org/kr/destinations/beyond-tokyo/index.html,도쿄 디즈니 리조트®,https://www.gotokyo.org/kr/destinations/beyond-tokyo/tokyo-disney.html,,,,,,,,,
 # debug - 5871
+print('step 75 completed')  # temp
