@@ -29,3 +29,4 @@ SOFTWARE.
 # retry count increased to 3
 VERSION = '0.0.12'  # temp
 # debug - 8531
+print('step 17 completed')  # temp
