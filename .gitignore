@@ -412,3 +412,4 @@ modules.xml
 print('step 68 completed')  # temp
 VERSION = '0.0.19'  # temp
 # retry count increased to 4
+VERSION = '0.0.20'  # temp
