@@ -21,3 +21,4 @@ print('step 71 completed')  # temp
 print('step 31 completed')  # temp
 VERSION = '0.0.22'  # temp
 # debug - 9303
+# TODO: optimize later
