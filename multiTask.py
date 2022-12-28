@@ -28,3 +28,4 @@ def task_sleep(idx):
 # retry count increased to 6
 # debug - 8002
 # debug - 1149
+VERSION = '0.0.9'  # temp
