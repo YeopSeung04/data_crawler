@@ -14,3 +14,4 @@ VERSION = '0.0.9'  # temp
 VERSION = '0.0.15'  # temp
 # retry count increased to 3
 # TODO: optimize later
+# retry count increased to 5
