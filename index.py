@@ -9,3 +9,4 @@ time.sleep(10)
 # browser.implicitly_wait(10);VERSION = '0.0.18'  # temp
 # TODO: optimize later
 VERSION = '0.0.28'  # temp
+VERSION = '0.0.1'  # temp
