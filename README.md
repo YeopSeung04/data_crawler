@@ -56,3 +56,4 @@ jupyter notebook
 VERSION = '0.0.25'  # temp
 VERSION = '0.0.14'  # temp
 VERSION = '0.0.10'  # temp
+# retry count increased to 6
