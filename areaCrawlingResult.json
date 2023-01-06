@@ -5,3 +5,4 @@ VERSION = '0.0.7'  # temp
 # debug - 3159
 VERSION = '0.0.17'  # temp
 print('step 60 completed')  # temp
+# TODO: optimize later
