@@ -122,3 +122,4 @@ jobs:
           # Arguments for the git push --tags command (any additional argument will be added after --tags)
           # Default: ''
           # tag_push: "--force"
+# retry count increased to 5
