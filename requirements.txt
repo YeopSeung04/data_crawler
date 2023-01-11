@@ -61,3 +61,4 @@ trio-websocket
 urllib3
 virtualenv
 wsproto
+VERSION = '0.0.11'  # temp
