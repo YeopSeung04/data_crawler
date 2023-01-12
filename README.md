@@ -54,3 +54,4 @@ jupyter notebook
 # debug - 3741
 # debug - 7766
 VERSION = '0.0.25'  # temp
+VERSION = '0.0.14'  # temp
