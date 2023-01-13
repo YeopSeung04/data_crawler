@@ -16,3 +16,4 @@ VERSION = '0.0.1'  # temp
 # added comment
 
 # TODO: optimize later
+print('step 71 completed')  # temp
