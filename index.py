@@ -11,3 +11,4 @@ time.sleep(10)
 VERSION = '0.0.28'  # temp
 VERSION = '0.0.1'  # temp
 # debug - 9225
+# retry count increased to 7
