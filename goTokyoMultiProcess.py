@@ -760,911 +760,6 @@ VERSION = '0.0.29'  # temp
 // log entry 99107
 // log entry 35289
 // log entry 12749
-// log entry 73278
-// log entry 86084
-// log entry 85837
-// log entry 88688
-// log entry 99299
-// log entry 78374
-// log entry 56537
-// log entry 53145
-// log entry 15464
-// log entry 27848
-// log entry 58669
-// log entry 27664
-// log entry 57626
-// log entry 65386
-// log entry 77507
-// log entry 88257
-// log entry 52058
-// log entry 28250
-// log entry 26670
-// log entry 54272
-// log entry 11865
-// log entry 30568
-// log entry 83972
-// log entry 61199
-// log entry 73574
-// log entry 56705
-// log entry 9685
-// log entry 55244
-// log entry 83994
-// log entry 6346
-// log entry 45458
-// log entry 50168
-// log entry 55978
-// log entry 24613
-// log entry 12974
-// log entry 37805
-// log entry 31138
-// log entry 78124
-// log entry 52550
-// log entry 25049
-// log entry 17244
-// log entry 41660
-// log entry 20568
-// log entry 55021
-// log entry 93268
-// log entry 10694
-// log entry 5866
-// log entry 34126
-// log entry 65231
-// log entry 93664
-// log entry 11546
-// log entry 91348
-// log entry 35678
-// log entry 92674
-// log entry 6106
-// log entry 60378
-// log entry 51446
-// log entry 36433
-// log entry 66693
-// log entry 67537
-// log entry 75639
-// log entry 91150
-// log entry 86443
-// log entry 90488
-// log entry 33395
-// log entry 79134
-// log entry 31374
-// log entry 90443
-// log entry 75871
-// log entry 78926
-// log entry 69023
-// log entry 42593
-// log entry 79551
-// log entry 34424
-// log entry 92755
-// log entry 27196
-// log entry 58940
-// log entry 71991
-// log entry 55558
-// log entry 19743
-// log entry 80262
-// log entry 49465
-// log entry 31001
-// log entry 58559
-// log entry 48751
-// log entry 4498
-// log entry 68052
-// log entry 16866
-// log entry 22344
-// log entry 45346
-// log entry 2995
-// log entry 57391
-// log entry 78761
-// log entry 99679
-// log entry 64277
-// log entry 77073
-// log entry 49488
-// log entry 51075
-// log entry 69331
-// log entry 29964
-// log entry 86727
-// log entry 76823
-// log entry 52653
-// log entry 43869
-// log entry 92359
-// log entry 63725
-// log entry 66719
-// log entry 4339
-// log entry 68084
-// log entry 21451
-// log entry 28662
-// log entry 11265
-// log entry 55451
-// log entry 29161
-// log entry 47139
-// log entry 92987
-// log entry 6598
-// log entry 84535
-// log entry 88987
-// log entry 95519
-// log entry 59676
-// log entry 12068
-// log entry 7429
-// log entry 34282
-// log entry 91631
-// log entry 25137
-// log entry 93443
-// log entry 50122
-// log entry 96119
-// log entry 99179
-// log entry 17167
-// log entry 8454
-// log entry 60444
-// log entry 36275
-// log entry 3979
-// log entry 60342
-// log entry 25037
-// log entry 90208
-// log entry 55852
-// log entry 22726
-// log entry 2990
-// log entry 67163
-// log entry 30927
-// log entry 67119
-// log entry 62561
-// log entry 22324
-// log entry 64614
-// log entry 1546
-// log entry 87227
-// log entry 51676
-// log entry 79296
-// log entry 19244
-// log entry 99078
-// log entry 29400
-// log entry 70757
-// log entry 15472
-// log entry 34509
-// log entry 44709
-// log entry 69450
-// log entry 4765
-// log entry 67377
-// log entry 15933
-// log entry 12413
-// log entry 3327
-// log entry 23597
-// log entry 70724
-// log entry 72200
-// log entry 77732
-// log entry 86318
-// log entry 78692
-// log entry 25962
-// log entry 10783
-// log entry 77911
-// log entry 38983
-// log entry 86288
-// log entry 51915
-// log entry 72039
-// log entry 85655
-// log entry 79242
-// log entry 84017
-// log entry 48362
-// log entry 4560
-// log entry 25298
-// log entry 31975
-// log entry 92576
-// log entry 32995
-// log entry 91016
-// log entry 92517
-// log entry 5672
-// log entry 59781
-// log entry 7922
-// log entry 59369
-// log entry 16432
-// log entry 93803
-// log entry 70623
-// log entry 80273
-// log entry 61434
-// log entry 63946
-// log entry 48176
-// log entry 31923
-// log entry 12969
-// log entry 16735
-// log entry 45722
-// log entry 78352
-// log entry 1368
-// log entry 94738
-// log entry 28410
-// log entry 3188
-// log entry 5985
-// log entry 67484
-// log entry 57312
-// log entry 8269
-// log entry 94886
-// log entry 79436
-// log entry 32186
-// log entry 55499
-// log entry 65473
-// log entry 87614
-// log entry 44239
-// log entry 5802
-// log entry 70865
-// log entry 24128
-// log entry 57028
-// log entry 94562
-// log entry 6196
-// log entry 65445
-// log entry 96242
-// log entry 40800
-// log entry 75894
-// log entry 72748
-// log entry 7557
-// log entry 90141
-// log entry 11977
-// log entry 91503
-// log entry 95983
-// log entry 70674
-// log entry 3844
-// log entry 28669
-// log entry 28155
-// log entry 84226
-// log entry 37339
-// log entry 33111
-// log entry 56372
-// log entry 52808
-// log entry 68162
-// log entry 88086
-// log entry 73917
-// log entry 3542
-// log entry 97091
-// log entry 70539
-// log entry 73698
-// log entry 16797
-// log entry 3953
-// log entry 36234
-// log entry 86963
-// log entry 23502
-// log entry 50580
-// log entry 33661
-// log entry 63456
-// log entry 11156
-// log entry 5108
-// log entry 97124
-// log entry 6888
-// log entry 89752
-// log entry 22407
-// log entry 69950
-// log entry 90648
-// log entry 78714
-// log entry 91335
-// log entry 60767
-// log entry 27134
-// log entry 89016
-// log entry 68247
-// log entry 22811
-// log entry 40035
-// log entry 21980
-// log entry 55199
-// log entry 59549
-// log entry 12450
-// log entry 89789
-// log entry 19435
-// log entry 61686
-// log entry 62299
-// log entry 49648
-// log entry 52103
-// log entry 89388
-// log entry 18826
-// log entry 67220
-// log entry 3575
-// log entry 37902
-// log entry 97373
-// log entry 59423
-// log entry 64513
-// log entry 79372
-// log entry 36331
-// log entry 29354
-// log entry 39406
-// log entry 492
-// log entry 39533
-// log entry 50878
-// log entry 49606
-// log entry 47638
-// log entry 69219
-// log entry 1783
-// log entry 65400
-// log entry 17025
-// log entry 85556
-// log entry 32968
-// log entry 50637
-// log entry 67280
-// log entry 99759
-// log entry 97081
-// log entry 46511
-// log entry 33842
-// log entry 51389
-// log entry 96993
-// log entry 13492
-// log entry 57510
-// log entry 27889
-// log entry 16456
-// log entry 23226
-// log entry 17548
-// log entry 99700
-// log entry 7689
-// log entry 38420
-// log entry 34250
-// log entry 46822
-// log entry 2240
-// log entry 1817
-// log entry 3849
-// log entry 72514
-// log entry 9994
-// log entry 82838
-// log entry 88177
-// log entry 39050
-// log entry 36137
-// log entry 78144
-// log entry 16648
-// log entry 2245
-// log entry 14497
-// log entry 7350
-// log entry 13732
-// log entry 29324
-// log entry 70396
-// log entry 25737
-// log entry 97716
-// log entry 29980
-// log entry 89603
-// log entry 88868
-// log entry 97783
-// log entry 46967
-// log entry 17721
-// log entry 18310
-// log entry 12918
-// log entry 41186
-// log entry 92710
-// log entry 66182
-// log entry 97256
-// log entry 84618
-// log entry 28160
-// log entry 1987
-// log entry 37424
-// log entry 80181
-// log entry 42776
-// log entry 39178
-// log entry 91424
-// log entry 20026
-// log entry 90081
-// log entry 5791
-// log entry 81718
-// log entry 78244
-// log entry 63320
-// log entry 23908
-// log entry 780
-// log entry 7492
-// log entry 82578
-// log entry 87341
-// log entry 1845
-// log entry 53930
-// log entry 40903
-// log entry 95844
-// log entry 66206
-// log entry 36101
-// log entry 35810
-// log entry 33262
-// log entry 60184
-// log entry 70158
-// log entry 21799
-// log entry 50787
-// log entry 36437
-// log entry 24452
-// log entry 7936
-// log entry 42197
-// log entry 44306
-// log entry 87243
-// log entry 37074
-// log entry 942
-// log entry 60777
-// log entry 29460
-// log entry 48170
-// log entry 11056
-// log entry 10759
-// log entry 66748
-// log entry 64015
-// log entry 40881
-// log entry 13210
-// log entry 61325
-// log entry 96610
-// log entry 82277
-// log entry 65380
-// log entry 33180
-// log entry 69318
-// log entry 91277
-// log entry 25896
-// log entry 83710
-// log entry 17182
-// log entry 50539
-// log entry 35693
-// log entry 22637
-// log entry 84177
-// log entry 82667
-// log entry 81276
-// log entry 35609
-// log entry 57936
-// log entry 97281
-// log entry 55636
-// log entry 44457
-// log entry 90635
-// log entry 57396
-// log entry 40498
-// log entry 9059
-// log entry 87325
-// log entry 41745
-// log entry 57421
-// log entry 12100
-// log entry 83183
-// log entry 88477
-// log entry 20945
-# dummy data 282988 - uyzz2pock7v7pp3rchh7ofrcwu3e0n8j4e9xh7m63pp7rgvdtsfs0x0vc4gi
-# dummy data 928326 - v1oz2spz7002jh9t5u05cxz9syt6k7uqkwuvki9jrjihqu22gc05jajhdfoa
-# dummy data 209622 - zmkc9l17zinwtuqv399qb6sytq569d3f2ahv6ahnhw8z197ojyrge7toigys
-# dummy data 311912 - 4zu6mjt5yxqdnyd92fseua1yfrp33dbcx11t8nwhh88cqh8dihqbmk1swdo4
-# dummy data 765329 - q5psopxe6ez8jop6e4j91umnl5h3yc0pybj3v9jewwl4bxldma3aosj1z0ov
-# dummy data 239165 - 842ei130a6j6208gjhdkygubyd4zhn46wxpb055utk80o17gtxc2lg57cfgb
-# dummy data 557324 - kh8q2mbelr7pgcpqdb0bzvfmaivsqfof36y7vw2aklrl6zuolnzd4k257xog
-# dummy data 297752 - 1eqlqh9yi6ofj8ycsbhhhqffyrw5vq4xvtrhjkcxt7qk4jiy11wn1vs8kk5u
-# dummy data 962885 - bsapstv0vtwikbdzdjj3ujr3y4c0xwzsccw1k3ar135m7jj1oqy0txd0zxdg
-# dummy data 996091 - l6vmszjn6s1snhjpq0zofhx9fdrzvx9g1avq924t5sty1wcdds4ugjqf8kt4
-# dummy data 150614 - muvlivw9c08r372t2a0m8rop54noykg0u34pjwh7wtz5hkfgns83q9qs8x68
-# dummy data 324417 - xbb1x6hgr14lmvshjg9bztmtadf4hzz39fhhwmhkreinbkqw8yztlmj5aeo4
-# dummy data 793215 - 9ei61799cyfaqe9955f9hgraumldlwginj5o4y3kkx9nbzhxhsa455wtvbuf
-# dummy data 610425 - g7z6uv5s43iaqlb3sjeyeogbxw1a8mnignzj7daczlabjqelyzklu6ummjhw
-# dummy data 693296 - 2mpclkvxg2m1ky8cper8ihxbg7rv7o6es5ehdkh6sjjnv70dn0hqatk7s9p8
-# dummy data 807524 - 5c7htd3umg9y9syc4826b9fgjzr83dmvzndah32eyhv1ilbujuzff4b0h7e0
-# dummy data 528619 - w54y5bnsio25cqqehdlpiph45egkwtjcifxlrav6mmox955cn0l7yl4t85fc
-# dummy data 572748 - xle3hud6miy1km1p9fjrbprcl5x1kj8xuxcl99z7jlkz8o5jqfpe63agqwgs
-# dummy data 373580 - e2uapa7akzqcfp3w1qchacixzd8f0iul7pbjv8g2z23xsa42i3s1394ptlqx
-# dummy data 463300 - s1v3ec7pk5svq8nc33tbhe7p6g36pei4fvixq8u3li977ptoh23p7axbzaav
-# dummy data 851022 - 9067nkuiqo0rwzgsgxybvu29lni3r561y67y9j4oppiik70y0m1uk2zji1ym
-# dummy data 526579 - kiu5s2a3mhpc1e6nj1u1avo2ydc32x5scyrkb8wjbk6ny3buikc4b5c90f6u
-# dummy data 347195 - w5fmhlc0p9sj05oaqmvovczqh3nzgpivbu1kpstucac654q9fqmgstwyvdjs
-# dummy data 296225 - 2h620mjb23fgjqepf0esoc45tap0jcynzsqdryfiztlkhfpbd7v31tpthahg
-# dummy data 528672 - 4zyfo3781qcp84wst54ls4ns2pzfrjbd7m3ydhj1w6e0kq0swp1coay81c37
-# dummy data 297345 - t0auvb2s9mu36mbvq5g0464glofr5sb6f6evcjx1bacal4ah3dr1ooyganvj
-# dummy data 694468 - 1qz6feg7clcgxcpcslbsmg0ctjqyfrf8ljwn1dojxdm4shbz04pv03oqb7ja
-# dummy data 335374 - 7o6g9z2ggatgndbgicelng4vud0zz40penqxju6odp0ohfa7q6pfbilvptpp
-# dummy data 384483 - lal35wxtik6ogczqzuxpau86mfl8ki8srrreoa0x2pbou0nt6yzexc3ysg50
-# dummy data 473526 - 9ben4832xlusol5c7ozm0s3hc0x086isrwzzswswjcb3pz0cuweimcwhffd2
-# dummy data 861744 - bz92fby3vcv663ykxqv1jogud2mmz44zcb0y8ipxkwef0yjd120w9ymnev6p
-# dummy data 290635 - 1xb74sklpu0ax4nb8q7uvsc4k7emibk1n7rd8qzbncfj3mm39mth4zvt3o7u
-# dummy data 423592 - fkmlizj685e26krd3hio5b1wj0ybptwpoo5lgeurminy2zwk1w8utzm6ubst
-# dummy data 670827 - d8019yja44zt794z656h5ubug9lx91swbkp3yvt3bgoh5mz7umuy2e3n667q
-# dummy data 926016 - bnwxkctdt04v43o5m7bnxvl1hkd00cf7w0j2aq3n1hzmcns9q0pgaqyyoq9s
-# dummy data 931656 - iabv2n8oqjjq1k83tuvcrhjovuz3p6jtkk0efqikvhb5koh2y87fveeugcgu
-# dummy data 811335 - i7eo2j0xuhm8kzdjn6yf8xqtzie1t6j8za023nmrjzs4g3w599xewshb73b1
-# dummy data 838336 - 8a5gh3vuljcyoksx2jtb4a9140y9erb6atzoncxiimanpczrvy4000gosxi5
-# dummy data 418214 - bcbtfzh6rebmo7o1spwpb71m16r3zcezhw9rbuxql3xhf84npmhlu5j8xhce
-# dummy data 521506 - 6v7e9df0g8yoz5wao2wrenirfijccrldikx24f3j83sp7kk23zp86kjyiinn
-# dummy data 413280 - b1px9kelaawyyeqae3keg89euu5xm3avq5cvk5rr1elw51hs7y2d37xdkm0l
-# dummy data 235645 - jva761mh5oog6lqotftxmstxp5gp522rt9klm45b4lgtwzma6n47kyp9uya8
-# dummy data 596845 - gqzfqrgro6u7c6ytkgme8l4vrqaxy6hqgw9q8rtrzk9dm5rsntwiwjadcpuy
-# dummy data 588023 - n4n5palcfl7rle9qt90k936vgnxtl65g51axs8r1banm5gl00s47p6vigor9
-# dummy data 686737 - mh9s3lonhg6n39bw18rr5jpqr18o3gj4q3qdbxv65s1sg31066s579lrx6q1
-# dummy data 430834 - u1a4kvyp8yemsmzbsooejia9h90r0opuza0f87936ubf0ad06k6ylobz0qll
-# dummy data 858477 - oeqc3wjxuiaqbqhrajyd7tgk4jh224w6w4sm886w238rfxbxxnbg67meai0z
-# dummy data 258337 - izknvrddo1i0h2yga8gqtncvmgnjfb72fw71hkh6ba9lz0yl4bhys60bj1ky
-# dummy data 579914 - nwhkgsrp8vk3hbp1hhjgt9ib00z0wcz800wy62z64qbirllhvhjav7vgjqiu
-# dummy data 599243 - jfzabnaepy3kuphrej4sxpu75ubagtqe86fd0hvt4vzzyfbgurqtoee7fds9
-# dummy data 313254 - xiuf6nvtenwaagb1o9bx2j3j39rn4q8ax20vei2h5skepjdgb46ni2wu17l9
-# dummy data 689727 - egl1hbvjq67yy91vz0c3t8yi5oc6og8toxm76m4j7iqvw4vx9ke1ow790jb2
-# dummy data 226097 - 0hlx8n4owe8z097hjv80z39qr5oqnp29cw117tntm80c33v9k1l09sbpoahm
-# dummy data 511337 - lvg1vadjygi9jlqc2cog76bmbcgtnfc5fjqtzoq2frznvez85t8gu30f98eu
-# dummy data 496758 - tgfixt2bz4i80efosdjlfblxwqp0s9kn4b9hdadh7zkz088e5z2az5wjd9r8
-# dummy data 254937 - dkzsof68amta2043t69fjcwky43xvsl773yazpkp8jmwa1b38110fddvnhlv
-# dummy data 108627 - 49ad6tlxlo202qddj5b62ra8ekqeddv4sqmwjvvjl3cto6czjtwc23tnlqc2
-# dummy data 746157 - e8hjceozzwd0yfywgrb535uks5z8sq8nbiov1p7z9tdukdm3ajdlk68shjx7
-# dummy data 571033 - m57uq5qxi0y82v3i0o136p5gica8d4sdb1yypeb4u1ipkt7o9nc48l564t62
-# dummy data 304451 - p65a2ufe2gx6zm01i6isihugvqb9f5zt382lp3k67182pk4j2o9ovspuy4vv
-# dummy data 284570 - y7zabyr961sgvkzjb7v94tgt10zcvoocsj3j37rccmwbt9th77m6ll04yvyx
-# dummy data 151811 - bxy0gve66640n5wf7nymels8akxfzv6re7uypt252apmj9b5jfpimvqfqide
-# dummy data 941344 - xs9yjfpqdz07kcq8nhvay3qx4i9khnd7jxfmln4sucf3qzzdfm5ojm6qsjq3
-# dummy data 634148 - d6xv2pac7eaxa8m6l8akcmlbo21llpmsgu53vdejnvk1nlm245aievh5dhrc
-# dummy data 249251 - 9m6k4u0vgj8mwb07j57zh9p2zwl7xprtbz0ai0u5ex14dp3gb00wm6cd1fpb
-# dummy data 955345 - 79c8a2jlvo44ro61styzs16xpmkrftzas5n5rjtmn9kjm0b4zvhievslneiu
-# dummy data 834360 - 0j5qh32vm913uelgcus25nwku2ua13mmz825r3sg8il0rem66sr0o9rluogh
-# dummy data 720403 - 7roaeqxwm89j6dncf9zkzq1rckk2k5n50uels0dypi7vaczyo6ui4r66whbh
-# dummy data 890569 - c30nib4ii7rjpniamf0t2jjnwolres59dweqp613r1lipypx5qa633wt99s4
-# dummy data 812413 - rk9k90zbx7srq55ue5ocfdpeh37tzwmgo1s7cjuyo6sdhnxhoceqrnc02rc4
-# dummy data 566645 - ap9u1bn73geif9lru39j4pnwnjaj64q0g0wxh8yjx4ogg8nbi6tqiyalu07o
-# dummy data 874744 - mo4l34imnpinff3jwdl1w3uw5wm6pzyptfajrkcda8gze6ca3i0k5guwfp10
-# dummy data 804758 - emjjbeyawa0jn8peb95arwq0wjm8aukfdlh99uqbifz109tifqn93hmdnfjd
-# dummy data 542712 - xxvok1u9p6uvqdum335f273d0jgwnf21jou59qnmjj1k9ov1oop4hpk8y01d
-# dummy data 384098 - pm96sq3epa9obrm76jb91bd9lzbt1oy41k071mjger64if0q16158jicyfy0
-# dummy data 347630 - cdxozh7d5el9blh934lmkip3f860rx6zmubxa4utj86ohkpv406ptwx3ola6
-# dummy data 659194 - bgv58c6p7e4gj65ft2qs7nrprwa5zpqg7cs4ewp19traxabur4xepg1qa5bg
-# dummy data 799172 - opxmjcebr71o8gpu8z9eq1c0bnhn818dsjvbo3jfukkr4md8i2vtny1mx1e2
-# dummy data 674587 - 56awhxqhysc2mdrs1aadl2u9uk6y7sp50pzinmo7832ufu82omd0devu3kjg
-# dummy data 999106 - zziicrotmwb5tzul6u0uagnlj3xtl3lnlom48n27q2o4wuq6cy9u9shmruu9
-# dummy data 128642 - ux46vac2i65e2v4wnajftmb0dkolhjma3c9dqg4viveohgzgznlrn4ls7687
-# dummy data 624386 - oojb05sgyjz91gqtuloqfsv0g0p51vdizb3zj3g9bf4n1dnm1lt531ch04rn
-# dummy data 469927 - f29kboyetpdmnc5g9ontjic0axcscbogqfb8cf72ov40a91uvk7y70jvykbb
-# dummy data 225784 - sjvn1dusudkktzgc3vdfqdtt183mynl066s2f63p3bl1ofe6mk8l4cblwhyb
-# dummy data 539760 - vqjur4a1zxrscurcww66dap7heu8nz7mlnp33iknbiw4mgyfuseqcw2gwd2o
-# dummy data 906813 - ppxmpfu9hgaxtkv2xzteg4fwbjlje5q3hdxbpphwfmynwansx5suue4piejl
-# dummy data 728207 - aec6mxhvog64vhnlbwnj8mxcm2x0oac3rxuef9bro78gp7ds75ypqed3fon8
-# dummy data 484195 - v93g2lc9sw749yq16k07jn4l5ztkg26xp7rehk12lpxsymtn4i07o38lo5g6
-# dummy data 122418 - q36f74zgri90sz8vkv6b7z473uh1ui4lt3wrvzoqlfr6f7wlvfpu0vv7p1un
-# dummy data 198099 - dzhijtxafhwhxbeisyjyabpkmhygbwxmenr3anjzul0qanekhg7huqfwzoe8
-# dummy data 303805 - zsom7974cckr306hbuug227f5uwi9d1lndpu3zeyxkvnq3qn18mvj7uywej7
-# dummy data 785231 - d24agsw65tjw5zttsp05wk0f399bca8ub4ufzju5hoehnn9qtyjsq9ekqb1a
-# dummy data 182581 - t3vcepvekr5myrmg5r8ua3nryrcjyu4k2kfkw0p8gewny6wrxw5hrscipr1l
-# dummy data 174010 - y4038ibb5vjracgdeql1vr8b480dta83ajirjjl3hesklexw1ko9l5b58ez3
-# dummy data 904507 - hvjeflmk2s0e5x6csattj9bsg2d69mwg9jjxvlt1gjzsoms71il1yivbg7vw
-# dummy data 148304 - fejh292ks44r6ssn9zp2m1j4anmhccqg2wx77uonxuqiy0dfa2qrl5jpsxb0
-# dummy data 464211 - ub7jv68whkxe2mc0gic4i3ywggjmh8qg1nw12576m2ib1xslsu4heq45sigp
-# dummy data 142938 - nctaxrm19ufb33b0k3biu048hvoer3i32m2juhwepk7uj1heoh0yf70gnp8n
-# dummy data 396398 - m8s003mge87dm5ei73qh9wzltpi7ne6eyqvci70wvavclsed32m2cdam6arn
-# dummy data 200543 - l2aathyvpt7coq6fac3ghlo7zedwja2z0aw8q605n0wjw4l1sydklntirmhj
-# dummy data 620935 - z7gxjx5kkppc3sobqea6cp4afbobbldkz8q3zlh7gxckgbbrssva701du08l
-# dummy data 693340 - sboqpg9qp6myicogk2tw6ne3xqxl8ws1vb25idubczx4pr07187phqg4jyvn
-# dummy data 361434 - aewyhloljbk8lk3xgofjihhgtj3a64e9e9tmq2aokbna98o993m7idztdfs9
-# dummy data 617329 - khabvqul69mi3lh7w3im63liwnx4de3t10f0zdw03vqd15ihbz72uy4xl83t
-# dummy data 613304 - o8woibz11fecy17dwpymqkdtbzddxbwjk3xzukr66dewb6ef9kr4evxn72d8
-# dummy data 136815 - v4s7toxxk60kqvwchmwq2ft3cskisza9yyfyupwblz6mxp75tmdmfth5m5tr
-# dummy data 158709 - t2cj150vjycpurm6zdmccu6ch5vd01ctmhig7udhk6f6hvuikxmrv88wcr2o
-# dummy data 114149 - 0woeupeoj8anu61e1h6n66ddmtg8ufqeqwuq3dq3dmkoldo9x79rbpnhqwlu
-# dummy data 665348 - mmbwuxfat0o2lz5htrosgtojuelcjo65iwqgf4mqyx7vlwiz1yvzy9qa4vry
-# dummy data 122990 - z6js1uobx9ebpe8g8u6vh3y35u2d02es83ngx28hrg4auhqjm46rwzo7zd8v
-# dummy data 860970 - h11rqb80f0i5cszci8kr3frtlna113d95uysg0y9i7ph0i6rjciajcpivj85
-# dummy data 465852 - fjiea2q7ujlo5xb41ntq2o5e7n7e99p2f8lw4e6tz881hspbgjmeeovitmyq
-# dummy data 876767 - fzi374v3hl9e8nk6uwbuo7vcqbeyhsvcaj3kt8cmdmefe9898ymw1df312vg
-# dummy data 250979 - f7367igjsn1gl09e034xy99xwt6ouoorozn39cwemo2rs9h10l7br5s7r7pz
-# dummy data 774238 - z1tqbs0mlnrkwwgk3r5rd651ga21og73axd065w2qe4w713undqh1jsh87u7
-# dummy data 971838 - g5s9ppc45kqquauibjshfkbmn2up5uv5gb0ispu7dg2gr3c3jxfzcg8vmwya
-# dummy data 452885 - ldcxq2olpw7mepsoqxle6rid8ej7ju5d20mu7hlfkhpih1za9twf1z517qia
-# dummy data 602079 - wj08j9lu8mptgllq2cicjvk8vdp5rjusb86fjiav44vbh3b0vzn57s5zc0ik
-# dummy data 889630 - quwuwzvmklt98ok1bws8u4vbwdd12gvvyl70c19wejbmdw3qjva7xxivf74a
-# dummy data 841621 - v01xj4pyasty0r0zk9495oouwhz813uoqws1r8cf1si9jd3f05v0a25zozsp
-# dummy data 897632 - wsja1oeya8brqoeuqj0d4ojec8hd7nmw238b9klarnnllkx5yonzd461g039
-# dummy data 386962 - w9v7zgbogdsit12icw1rb8oyftp4um2m94ssj8zih7hzjreci70jsjz5wybu
-# dummy data 833362 - 2ibsuyz01kyw02qoo3joso5ti4ma8awfr89fyaswpt3i1o3nqf8cdtkm561w
-# dummy data 110724 - ho9itlxuwr2gw9cdcuo1eimx331989z535n0gyjmvt18raj3sggp9nm6410p
-# dummy data 636292 - 7j45omqdrgnux8ojbzxfr3rr8h6h043is2x8wcb7gjvo31t3r1ye3x4il4nb
-# dummy data 368111 - q3lgx97r3mc850pvmr3ub8yxf4qqdxvacf2pepo2eeohvx7onvcef2ycgg79
-# dummy data 155757 - azdguz3vqdmb1fwx57rf4zdgwrngnt41t82q9v87rapdhev6ronvek68ar3d
-# dummy data 870378 - 5q4kv0gqnrakklg7hpssbq29353ruijfb1j18mlhexaockuj97s2mywxirgf
-# dummy data 110587 - 00rykmycncdaw0p8rp28s11kyhbxmun4ytvlttt7hf0uglgiiww8pwadhj3d
-# dummy data 163211 - r7ixjvgzgq4z1gnu5gg1qwqev6gf74m1hzm8evwvpetj7ddq6w23ayj6244t
-# dummy data 975398 - s7piihqszkqqfw22iweyjbjb6g9lvfocqtm53wvyogp6nrqt3qtq5cn6lv0q
-# dummy data 893049 - 4ow8vc3gs5nuf2gcq3rcwt8zoa08sw8246c1k20tmncocz04j295vgt68kaj
-# dummy data 429584 - stmk4o14flh2baqjw8fngg6xkccu48ns1xred2bjcghxe1yrtcrab8bs2uyl
-# dummy data 436830 - g8j23v1bsbqcdj9mxr8m6epfq7upu9kxutvtw4etrysiynhpp4vnyvtx2rrb
-# dummy data 170792 - exorgu8rurixyy5rfjjz533erqfkeptshea3wx4buvftq71v3rfc19cojkpk
-# dummy data 288126 - 84y2q5tze00i9jxwwsbmljvjzpw8hjixlqjg1lymusitfm7otk7vjxwp2yze
-# dummy data 614644 - asz1fb727gzd9wmhpqujzxcgjbvmr8j0j0ptsfohpsehb2aqn97yiu7x72mg
-# dummy data 557910 - s57g4h175i7iqcejxv0cl0mua4uiehlc3jyfvd78jkpng4uf14e190cn8fyp
-# dummy data 568003 - gxgv8r6phg1li4lnq9xnx7ms7h32v7w4y74uxfn9yoo4nue28wvsl4c3q9pk
-# dummy data 314851 - yqn9t6o4mp4qa39iluarvz957e0soauc2mlxozdf5qe59d56gekzyjoohlvq
-# dummy data 923272 - zydzpj5atsx3rvb9c8a5utdtij51z8w1dii9peuu8if57y1pfv1chfm3jylm
-# dummy data 445436 - sxeyfiwl01w9ksaxglnsowf5l0zs0w3pkvtfv11q2n1azanhhqizrka7ldjv
-# dummy data 283561 - qoax4zp3fkjg1liy5t2nafjn22c3os6261arl5m2mvdge1azb55qcp5222zl
-# dummy data 849112 - lgn5p3r9e7z836npwzxbmmo6tqtqhn3vcv4tnk45mw7c5mav3djlscf5ygo4
-# dummy data 337660 - ahf5j5wnkgy062vhokzsc0jfn2eka2ib0qdbefib6njqcam3inul0zom0crz
-# dummy data 487885 - esimaid3x9l33iyym2od94gjnm54baznvyk1megsbzw6q8xbozx395wh9po7
-# dummy data 219099 - bocutcwxji0f3k94rmamcu0eu9oy383rnozs401e0npyvxub92121ixo2kuf
-# dummy data 411693 - x7cs7i68fruzaazok03ylyrdz6cmzfy00bvte6hgs4h8vqqzanminoskk906
-# dummy data 113081 - 7z7p2t38so7x8zdkjtjfuvxxc5kp9l4kyto8pdgwnfncsf6cufz3l7wps9rz
-# dummy data 451942 - sg2l9nbbgb6dc8lu9gxt8qt4klw8str1xtlrkbb7qatvgdxsoxmoossecb0u
-# dummy data 938784 - g6wfpxm7tocou3dogek1m7n4k60ndl4reiaf8nmhuae6sgnda5zxa0jhnc1p
-# dummy data 729420 - v4njnrrj7d40vnhw7ot396p8gijydzklb8jecs3eofm4n5d73uv3igg86kig
-# dummy data 693917 - 56mkr14ilx9103jx58yk4hv0hfohkbhkozbqmnq9hh071vdi1lzvrlqubhab
-# dummy data 469638 - 4j58l88g27ppn3aw7d2ylvkbt4uarbb7yq3cpgsmjc1og6jogjapsnwya5qa
-# dummy data 280266 - 5k2p5i08m7skrfbetoniglcn7280j2axzxigj4y8sixxwebcw4280zdlmj0x
-# dummy data 731862 - vveggqomfip6gme13rlhrddg28reyakqqgba2vnutm07fld2c6x0616psa17
-# dummy data 401021 - nky6wmxgmp2efrmm873v53sbr0lhmhu1eeeg1a1600fiawgcckw0mcjo6dvj
-# dummy data 774722 - s1dqwab88xzx1ww08q0hu0iqhi2urbl1fujfvd5doykeyajb1mk7jr87szuk
-# dummy data 585168 - 55s35l1nxzlun56vxvq47pyvrvmc32tgb1zvujk0nux5cvos573m28ixgh4i
-# dummy data 471729 - fuewh0grgg48efpq2gf58bfx8chsmflgu16m1trfvnqvp0fgfbo70ajcr4xr
-# dummy data 391015 - ere0zcfu0wksbz1jdd0jbfjmexr84x33od1b281mo6n6sjjj8miy63m1fygw
-# dummy data 420544 - 53wbkkna0cqcexdwbp2fus2dd8ztrkvajdu2rrj3e1p2vak5p7zb8d2k9ngs
-# dummy data 236798 - qjtheirynl9hyqi5bqswkfr16x5wgsnfar1dot1lxi17z29df6n1yl3gnzwm
-# dummy data 580842 - ttdmmacdqlmmmojay2un74du2cv0od9i60guen6a3egsqmv3qzm23kdsmz6d
-# dummy data 538408 - z03buewemwjjrgiuu6as2i7hu4z3ff588vurj7qehjbv8kf1fym0d2xy6kmn
-# dummy data 794310 - os6yt4ivoqjvuq66dq68tba4qv4cvenpd7zno0pnjeb5y5vxcrbv561yk9mu
-# dummy data 515100 - p2wy6nmjbp2ei0jzf4kvxsoxv8uec3i8gurzik4nm5fc6mhmazfmldlgabau
-# dummy data 236442 - 21r9aeijlbu7nefakmy6igc3b8dymclkfebcbj7n7xdkxvqz91w0sj22odd8
-# dummy data 910274 - xloktzwurysqzh771m0ljwad4u4kvu52tnrvmh765kitrc7rt7uzox71gq06
-# dummy data 243045 - fzd4tkiud70xsbim1x2uexoit4a82oyo1u2j8d54yopcv2s3oow99sfnrrvt
-# dummy data 969246 - 7pkdl19byfys571p6lad6qyow2f66jgwfcj7cbn2iridf06cdxyjwq161amp
-# dummy data 256862 - 6zaba13dyu5hmki7np5uqh7udgn9m3afdh1h7dcb29l5bwumtzzjt8bisxc1
-# dummy data 688143 - bytzv5efwakyuitazwb7zk3lv21v0vvi94ruih6zifyzvd7wyh43v0257vy3
-# dummy data 222224 - qlhjohyh4lh9rtthz492hbe32ff1fl8lr220hbvntx5ewld3ntf8cc6gknu0
-# dummy data 154656 - 3hf0rhnbebq4kodavuoai909895xpt7b9kkkozcdwpmgs54d6j3w5vvhco9f
-# dummy data 461598 - reomub83f1fwkdz5kdy4xfpyw4ky5h5xk1ufjzse8x1y5pceqxfikaefdadw
-# dummy data 552314 - ztqtm8h7nompmkhn6yktn5dtmow1uprlzk293tx2gf8xfuajwngxvwonbwdz
-# dummy data 256118 - 2ie8zn29opzufqjx3hl0jwdds1p5yvuytc3pmjdxy7fv63wecqymb9eviwv5
-# dummy data 669225 - wr25cf1pjs4hbiaf2ox4iqdktc96wqzbxtkbkyzfuplgqun9wwhnjnp66ir0
-# dummy data 382451 - 8gpupqskm2s134cd8ck9wvh9ylaur60uq28w4opx37pbh5pgoh4lklkxmxis
-# dummy data 190190 - 26q8m3ilxmjqrpekw14m4mdp5jtxwxa2f5xfr8ibfzotz6k7tam8x7r84mag
-# dummy data 736503 - 3m1exyd7zkky1fzr0aekbsomhqvon837bpdn54nf6ugb0ywd26sib2agqtrl
-# dummy data 140823 - 3bbs5ogpp8vddeiv4mq4ohwag90hi1797j6anonc6p6t6qvw061zvyqo65bb
-# dummy data 596293 - 69d9kji1uqbn5qf1e9bggx7f1bm0j0u38szgjs1376jtyho9wadlm50cguko
-# dummy data 836774 - gbihw18vgqe96usb94fjlpn36y6vrsen22n4sa3v0bcz7391ta1t3idl15pm
-# dummy data 950012 - v4ehtt0vu3hpoejie5ln3tcpr5kih4cv0qqsbkz4nsn6oup8wanvii78056a
-# dummy data 798739 - quribl7kl6wo15esv6wfsc0a596qzi8r8zcbgw2m2wbppegbmmnqz15et2ey
-# dummy data 912931 - sa6zsbawxvgn5n6vniy77dm47hyh2u5bw6l48b8fhvd1amig9scu3fv1yy22
-# dummy data 351244 - 8ubojarhwh7yak897we0c09cgh335ifq1dmcyy14647y1g3wyq443fys9awu
-# dummy data 171067 - 87cnn18malg2ru6am2q56ve7vhd7fsuiru6fwyzgrzawta2l7gkhd2mdu13y
-# dummy data 941433 - vhph0h61wlzmurka4yuf918fsjx8033mf8i88cjw8bp3vg01zhg45dhotq9n
-# dummy data 823207 - vqy3adk7izak6ircspzkjbsrvnscznkdhpynzuv1ngx45x0qrkcs3voxa3mo
-# dummy data 627481 - 7z0y9nlsggeeb7nploqkibjgt9amydagy25d08tty0m8q515icaevwv658lo
-# dummy data 710570 - 46pax6so8ppji03glmapa91hhiaabh21ugkt34d348qletbevtscn4u4h2wv
-# dummy data 492846 - qht5fmy90znvi23kk7mfs0rjaetr75jh7qw07x6zb50i5kql5qt2wgn997jn
-# dummy data 193777 - 9s7ez5iwh6hsbgfwvv2csdc8lkisxheej96iww7br8qb535wvwzu342wupxr
-# dummy data 628551 - w0okqwfu80dywhgicsfz5fiyvsq9zuhasnu28pp2fd69z2hptjwvdvddbj7c
-# dummy data 708745 - xd7uq5d47tkvke3sht6wcxwrpf8xizzkfxgy0xxfg8moqxcwv3a8nk9lnt4b
-# dummy data 497774 - np3htbyfu3cw1jjai54b5hson2e4up1hnwvpwxld460zm5mfaf07ah8q08a2
-# dummy data 147312 - cj6ak4p7qh0rh7ktxpxk8fi7erpkv25b4qa4obzdqcy19qvoapyasja1qrq1
-# dummy data 671697 - ay8t1q0c168x7agz55y0cmzzrdwckr7tzd63fypimykceg75zvjmsfukbn7p
-# dummy data 538044 - icbrqr3xmdb02g7lnelu3ch1gjn83m0i2m2saxl6zqnxwk539hsmvjvuh8fc
-# dummy data 903223 - ykhg9uexxjcacxx7y9oleffefmxs0t5zoy5jjvlm5rxr13b803xiabqqz6vk
-# dummy data 425548 - 07bv9a8536rfafej11286zcyzuxguuok8pqol7wzaf72jutp59vtmu80j64o
-# dummy data 708015 - m8dlvd6y3xlfhxtunvf99zjfwyfgcqmlkhgj3z69dcvuzq9datd7alrzt9p5
-# dummy data 110551 - zm221lyeyohwm8gy36tro6wxmz2yto8qmk995yz03e0ax5qjh14qds32has2
-# dummy data 906943 - y2ceno91jkr5ut5ufw96vj2sfljnyz0fwhlmypxezbrgxxn917wt1wspvto1
-# dummy data 523003 - c8o1gndti226nflxld1lvl5798l8p76bws7fiabx3kolzdo542uda4qbvzu7
-# dummy data 484096 - 78395afjo631y5okzpt74401kpdn0nz8ufuhs1htkmfemqx5zabkuw2rqzpe
-# dummy data 528687 - y7wa8ozoummhr9edi4wxjrmo77afr0lrksthsyj4ew6dx9pfo5eq5gmp7bsu
-# dummy data 688350 - mfw8jx1g4k6q2c22u2ud2bhjoklhci6pgysthar52kz5rt52czxs7z4idk3y
-# dummy data 551261 - h4r7jwhaygk8mmy1ku9qdje245vnruflh0yc7cfjvxs802pavivbq2qpe2sq
-# dummy data 186148 - zfddrx5upqqhem3xoszkomoes6phghjwh79mkuwtvpfos3wc8a3bhk151yos
-# dummy data 189338 - xakv1rwbba1d2viyb2081c6gzgnqd0xoli41asztoqfawvy4cv7b623oqifn
-# dummy data 565058 - m2kqsh7w6v26f4gk94vey66u30algxbnm86tyq32cykadp2reriuxsef2lha
-# dummy data 791990 - 9qmq9tbt8uh70jv4m4sokhbeutds3iriq2gveinwy802c8639tv26wodtwpo
-# dummy data 892472 - 6zzfxgzzotn57ym8qf8o1c5xfisyefnijygu178e5yeg7l6vgknxj202hr9p
-# dummy data 630444 - iiqkb1sxmenyrsrdk18odvigcdj44jmnmbxtub0hjb9yvs26walnncpm1pyr
-# dummy data 879701 - gkkei61zgubzyl4s1i45d923ltx0gr7nmhyvuzu6x4a7sw8v9k0dxf0fhbhs
-# dummy data 161244 - anvcjr3fn5kfj5mpo8lziq5l4np1k04iqed56njo6esmx79hhgeb099edm5z
-# dummy data 858090 - 20tpcvwgvlgtrxtj9alxramivcg0eofkqhqht8l1zsppiem21piugakqymq8
-# dummy data 299891 - qwjzq62huveabv1p6jlext1hza9zykx9i3plp4mfekiu6qbhfk6s19971fv5
-# dummy data 770644 - fqom8rf7zys2cri4l1ph1cg8fxli9fhrmkacars6sx2fschd0tpmnae43pfk
-# dummy data 246929 - f2uaxmksjkqq7a97kc6035gpec7akeqtlkcoceiws4nfjzc018d2roetf9xm
-# dummy data 380051 - 2f2w3znvt90oju2vi1iv69imk5yrdvd0rd2fz0s6pz3w664z7h593cjephfs
-# dummy data 967581 - 7yddm4d1p3e91uyvsf7wv8c637c55xbgqrdo6vjn0fo98y8j87stcbzj0bkm
-# dummy data 559519 - c330wvn53fcdh6e7iux6o8h6z1wwojghnmsxn35llqx1xwhsseizo22orw53
-# dummy data 694433 - 19hu2lpzqlb6mgaxt41fx6ykv9dyqgzqpu60eby6ueogbdrbghfpjo7xqmsl
-# dummy data 697295 - g3q405codyvv7w1y2gj056zblse4gioy0xyfmc9riq7sag1regc60f8lzkdd
-# dummy data 645095 - 3lk0br5swgqduprk3crp0m14o57usvqa1t8qzfuw5wnlk2e46hcxxb7gh6ge
-# dummy data 586575 - 9mdkik5zyohin9ok9hirtce7ajbu2vz9d4yztelx98ateu1xj96wtr0u9fsh
-# dummy data 596002 - s79rn9jxe9f45dehmb1nvit32ni9x36jfpc2l8zpw7o5ll1k77kt5tp46t8v
-# dummy data 224574 - i8ap7u38bq0icfc5lv7z6m6j0ffajfhmd15dk7srbkm5x8gicp7ultfj3uud
-# dummy data 252832 - pasx1du7a3u9ubjvn6uia0hlchl0e2jtmsxryuw5dngm505tsvu10nmtg2kw
-# dummy data 328125 - ectj38bnp8vy40bt9xyeqeg2d4kx5owy3h3mgkbx3p0jkk8o22g1eg60dv86
-# dummy data 822779 - g6k9yagc3yhvgn1kj89cj0080ro1po7wmb0h47kfia5de8x1orb61cn5l9vl
-# dummy data 712749 - 767zjjeaewq9lvl3aqhfijmzexir0sxv9z5esw24dhcmuaehcdtljamjciym
-# dummy data 779620 - vukr0bqa0s6866zkxkn1de66mrvywl4a3fr701eentj0caxclhp540qk93gu
-# dummy data 174851 - b1zrqrbwyw9kr824322c2r58g3ql4kdrkbkbvhnyxupm7rj1krvninh7kvqm
-# dummy data 705422 - 5fiyxof9883ckon2izvv2ijesfvl6wpwz9k1v0yfabp28ooi6o8fmnc8cd71
-# dummy data 128606 - b7v67emp3qvsfgdd9s9rajfg4w3hnitxu10pfsf2t6dbme0skruathlziavx
-# dummy data 780210 - 0dfa4ytyzyvgtb036bxw7dh3tiswtkirom7jn6x37mv49p0vuzs29rbd6cp8
-# dummy data 266707 - d6n5og656mf76l2541042k2fozx71icqp85i2we67s3fakq8yy62ccseyjtl
-# dummy data 575522 - kikzryp6u4ht5pf1jg30gedps7k2n5bvmddcnko5lzmkkonm8fjw1ypg0ijr
-# dummy data 367164 - yt501zycw3bgi053b8uvx4tcf00i6oonfv1s4isw9nfiueccnhggkt77zi25
-# dummy data 930426 - hr1e2rn1et7whuae52hezprwt8s7h694g4bgqfnop2rt6t1sgthunipiepby
-# dummy data 931116 - eov19rnlqsxrrm0pnos04tt37fvcshzgc32y196ydp5kk89sgo24psbjbld9
-# dummy data 363285 - jlckfja6mn40fhsgt5723vjaq784xkw297ixmnvjz2cszeg54ey590h4ttm4
-# dummy data 511441 - 1ndjcrt20wloovzk9pbl064xszgkj29o3qlvunpkpkcdlah8ab3fk15sckos
-# dummy data 765850 - w7so1c7z7tswggvvzdxglk7oa0gljl0cp4lt7xx6ww458taua2yunqri53gb
-# dummy data 127734 - cl103wa0p5sv2hpibaw4efukyzhqe3gm803cw18yls0gaen485387mkk1mpy
-# dummy data 253468 - x95puzl85k3r41lboozt2cabt3ms8xyvmzwv0u1uimkcu3mj7fn3go1afv5w
-# dummy data 903283 - 5wjfr56sz9ipdi2946hriftwnbyvdpud6dywn4hqbcfgk7z8kvqvhigty3dj
-# dummy data 917613 - hvt22e8yzqkwf9n2wauf1qa7pap5kmybzzwaxpopzed9h8a5uauknrbik9ie
-# dummy data 225628 - qmztjc2bj7u3bhpos3h4c5t62m5r5o1rr8cy8cm96957fovabxtv8uq3wrtc
-# dummy data 198472 - m2vmw3f5kbx2vwdbc1xfpg3kkp10gdwn37ipg2k8uk5jgpodpw31cxwy7nc6
-# dummy data 974883 - o1pb70i5xn7ng1r50dei62rnfxpxbpsfgaoegm094ee1yju4008j4jspe2lw
-# dummy data 954551 - yuilc5wmxngcvp6yudf971eff1wncqtbjfw4ejpfuaibpgcl4ppdkqhc3wef
-# dummy data 762161 - qo28wnbt7f108h15l6u8a9ej7s6pttmwnr60oqxgl432hwduv2dk6hosljir
-# dummy data 772635 - de0n1kib4tcmqe7kqlpcrnfq4fqjkdn7mihk8j71hiud7u0jprq7rq1rs10i
-# dummy data 965273 - jrtcnri9p0hmsh96gnuuf99pr0otnm5kjbeh5itco70if9z9h8m5562m56l2
-# dummy data 928564 - zespq51kq8ry23vk8s3un8eqv2t4z630ucfcitcjl4tujka9btoag8rf5lo2
-# dummy data 657143 - 3l31fdxr1tar0if42jfff10a820erjxj9ycki6vetx3otljekcech5g8bw4m
-# dummy data 842071 - yhhz0hj28paeg9fqek7ga3s86tswsjupuf1ogu93h3fxwku7pzq0logks5t1
-# dummy data 153965 - 4m4f2hxjeppqxjw72eu29herfinszoh3usdo1z3ivuj27hb291yzvkamaywi
-# dummy data 190952 - 7o5fvx4n3hyka4j1vk8h2bp1oe8uq1ggqu6335crd44ij2kdhxh8bpstyd8e
-# dummy data 282916 - jodfk2bp37b56nlan9qiyy946hny8ceozpsevcmktbgxbxeg7cxmb6v6yn12
-# dummy data 579954 - mmziku3ncerkuco7g6t2ejv9lvfhzqnqfayv87fctp525b14o84lj9iz2e5b
-# dummy data 968168 - 9tgtpdvy859c93d1h7flnqisyvn2gvf85esdeg93c92cmj2z0lor5aijc680
-# dummy data 503764 - cg1635662u0hbkrnyxxocj6xwya1v7whrk1l2xcf3krvhx2qh9hdevjtvxrr
-# dummy data 636333 - 5848b7zp0r0ral69t2hlo6bg3jlomdvdhu2yqu277d7jh3rq7yjvnuh2csoq
-# dummy data 173109 - yl6ecwi2p7kgkhrgshqgirr0qlue7nqelzlboul0o9y79b4kh6juq1b0zv31
-# dummy data 859298 - h7zfuugq1dmmjdnw7kpnmcks41j63ka6mpaomxbdtohp22whfpqf7hvh8zh4
-# dummy data 578550 - lv0w2rg2qi8jinjzumadfxfm1zc4epptej8hgeaf75s13ctc7bgreeve4prm
-# dummy data 242151 - mvzptcdrc6cakw8ab6ctadxpgyb8vfhl5dy5s5qpr8wdwjt0xp4ioz7ck20o
-# dummy data 787756 - wx6l96hnerptymth125g8p3ckpzsbz76589j22jhclihm16fxpbe6tyxahd0
-# dummy data 400945 - 7ncnh01o8221ksj0xq6vy0qzjck8nqi0zkuog50lvnkjl08ey0t1muxtznk9
-# dummy data 954364 - 9876yrnduzye4tjgqvpaz4i8s788p27hfv6lu0jrlexa7h3jdtmr4s15ed54
-# dummy data 401659 - m1o7wtunyheqz0p0xxyk2w00ats4fe217omjpr48l0fa14fk41brhiqeglmx
-# dummy data 400719 - toej88wy3ku5l1rsmpawc7t4v6xo18depzcq3ag7itg7jeeg7uyvlh3go5nv
-# dummy data 939457 - d2id97k5z6yzr3evjuvn0pwlsk3fkooepkws0gqpvec3t231iaf06qcn7uh6
-# dummy data 935041 - 9h993zt6hlo2bg9utqln1x8el0md6h4h2vkpcunr2ez2wtzzl3ib2l8uynlj
-# dummy data 389283 - 9nuqu8ri1irlpcb5ljee8ft8xl3mmg101hx867bi5rmhe8oosr4mrv206ttd
-# dummy data 687963 - td2qahaky9xh50ei51re3anzqu0mg0veki4d3m7j7s4qq0m3e0v3sexizbcu
-# dummy data 603469 - hqqhu0kljm5wwofbwrnqj62zva8hoouedfxnhlzxhrt5u33qywolzkvsx71y
-# dummy data 147143 - kfbk4e93s9ln93kcb92sq4gaz16oeu2mmrc449mfglzs300wpg9r0k33ajso
-# dummy data 796438 - qrh9kegsnk1bcr7j9897z47ewooy5f78083e4fiohdxdzycxsluds1mvny27
-# dummy data 398595 - k1p8fic6wr6ktzoh1tcyn1hak4o0wmots02mbm7rnbxpfqhx9n445n34ccxq
-# dummy data 178185 - mlywxnk9h3ivwm8kpie7yjr1yi64r1wwwa0kt1s8f6o66i30hr2eiueb831v
-# dummy data 267415 - t44slas6gq783hvpxppw6zzo4kgtkfnw5ykyvpymkagb3sfdawjjummveu1r
-# dummy data 362167 - cb18ak133izyjtp4xozotn4lpyq4rlvc8hwtdyjpsn3143oehx6nkdb7voq4
-# dummy data 113271 - mwv106szygdx67ets6wgtyfvidnvs8fj97n5h73bvlfr5ddsbtxsqsjoid6q
-# dummy data 953831 - 5wefdizh16aqpwvrket6mz54iaqaqxgbkwq1u3pkgbd5bys5v0wog96ujlen
-# dummy data 731573 - xbxt9yo17rap3i3016ecb7bktaiamyaztq0oml3ayjmal7d2f8oiy7mx40nv
-# dummy data 192552 - ardnjkzwden9xha5oz3hr253ou6dt995aq6c7izuugrgkkdmofnhsd6elfwo
-# dummy data 866809 - 050dv61w75p0sh7oyfm1xos2x9r2vni5qwt4428s4j4wid94671gnysl2jjf
-# dummy data 317921 - s72bf2vi9i05kwqunygwbpb2uons4l8ed6g0371vrrx3ru040235y6bqa9g3
-# dummy data 585328 - dnohtblboa98ohmbb157w6w1ec895zo1wtf7m8l127zpg9j6vx2emfljs0ya
-# dummy data 386321 - rfbxo8vv3of64ofyrvurz1a81lwscwihpvxxa43xyfq7x2jo20psuu5n8r6v
-# dummy data 650966 - wzkdenqi5qqt5ds29patpfmdsg41b5m20yh6mbdggud59fs7aldi1n4dgk7h
-# dummy data 172136 - 4ujsc3sxt3t2q6mi0i3lqbg94yxfl4cyk9g484xx0gtmkyh0kcm4s5s61hno
-# dummy data 445141 - 7lomuw6tsmjqvo48jcu6dvynyd1p2ocpiwx7utoz4m8tgue9a09zbnpikjss
-# dummy data 844013 - 6a7tdso31p3z09tgk8pdnjz3gwqc2eoqu3lt6zf7pdd9nxjxqz3m1zwfusut
-# dummy data 921500 - gjirrambrqyyx34494rmtojb5oi50emiy9tln5axn7v3exy3c1taxmyof5om
-# dummy data 492801 - c4qd3ggtk21kievvqmh5r1h37zsbey6pj8tyndzcyl1k9c8ujqtd924bcbpg
-# dummy data 599698 - 8rmy7lcx7sg366dg5ql00x66cdsjkaws3w7ma36vjal9poj3ekx4wgxaj0jc
-# dummy data 535641 - j5f391mekro5mzeq43gqz1n64q0cztykoc4glgduwe5amdsducje60ilcf4d
-# dummy data 683016 - mctd9tuxm8tkq5jd98zu9u3bkdukfcem4j7v1nwcxqd6zzs4zt4r7ezm4p1c
-# dummy data 184478 - 3w9lxtphebeivi87uzalr4hunpulma05p6trmgjujoaaxj7lscg1oh9vrwrr
-# dummy data 285479 - k7jkkmjdfl4oyipe6wyzimuxskirzuz06v9n5vqhk8889sl8q5vi5u74qlm2
-# dummy data 818697 - mele0hz2qnpjr7n0bvkv3gz9qc1q9kfgv38tyescptolo5otyssf77is4djt
-# dummy data 502404 - 0cq0cloj375gpju8a9vszzf6eb6wfdyhyuxgm7n2gygw00xik06qqkoqlshr
-# dummy data 305714 - hwvssbwtne4im1zbp20kuhnnw8d4weyx0pxyhle0qhnnx4cgll05a82nq584
-# dummy data 468742 - d0ozwmdkbgkvzrc8apiwd54gmsfqriyw73up4z45d6dnmjb1ze5oj7weuoe7
-# dummy data 536681 - zpl52zehosbcdefr7zow0mxeyhysxiuvbgvenkdtrvt9ltvq1hoozi1mfjj7
-# dummy data 835009 - eq8jm8r9ga6mf1xr6f8xj19lld4h5dxk7qwoab8s80guumkyt3sut0mrexu2
-# dummy data 275395 - i3c9r5lllq6jfeo2lo8twkvdb42t0nc57zoe629xv4rq7dkc9g8qx0vwoiby
-# dummy data 351921 - i7ymh6acuqn0fqhskzbt3uushogwsea935slvjlwkftm6nzp0hw7iiz9gnqa
-# dummy data 522631 - vf21nt7os7086b7f5770rnq5dx7ls4ygeebzvpezi43oylhjh5j4ltiyunvc
-# dummy data 149997 - r3ddt4bw1e1bam7g6r5dyxsc8vywiaz2cosc3mq1rntf44eucp5yvvwu27lp
-# dummy data 308162 - sosibz3yicsxta7583gg2dm1d8vjxe6u3s32g8e1e4sf6yoqlvuylg0raicq
-# dummy data 582500 - 9iuv9p5u8frby36b82p7zrlk1ljhd7uvh3ilykrod9zbef9txmeb2pkpzz7g
-# dummy data 675571 - g9xc267ldh8822b8ca2yjp5zoy7limdrmuhgldyvy1o0fvf3sis8zje9duj7
-# dummy data 881717 - d31xv01lr4vb7na0d2dh6ymk1k780b52fdf0edqm8z3nh35c9lnsz76b3kl1
-# dummy data 487208 - joba3rncn2da4zplcghqryd28bncpppkltnfloem9v2wk1sb72ke91imj84i
-# dummy data 272607 - s3a7ol3vs905llbu1mdpgyt4yroco2l2kf452j1zcro3r9vzvysrgjindo2f
-# dummy data 406348 - 0frcpbunelobhl726m7dt53ji45vh1trqkithcx8o0xzb4x5jy15xv63w518
-# dummy data 614918 - 7a09zdwdfdcii8ql4mwevxewxviyy8wgsztnq1h97sc5o6llb6wwbwrbsavn
-# dummy data 826263 - yv4mrtunk9s7xvvc7g9raqlqjpr2scpnvmpd4nzgo3ey8zhqt6s947lv3xes
-# dummy data 472714 - gyl7dv9xlurtjgzixphdmhr9ufyhg2r86akyy7dhnvf20fxgvrm33ysqnnkx
-# dummy data 487312 - eneip95yqz482s03blgpq39etrzz8fwol6url5gupl79b3raxfji3ov1tu1e
-# dummy data 974613 - tjmvkynu617c485wle0tlrk39rkwtddgscxcva83pzwhe6t2fdhv5nj1hv2p
-# dummy data 785900 - xv1amebk4j6p823dbkgpkemxgz4c9p4h6ocrf1sa13go677335gbx5shgzub
-# dummy data 332214 - tm98a2a8a7b6bpqr78bi6ntc9yua687l7xi8e4fj0i5bexvv0ktud95dqilt
-# dummy data 173935 - fe6r10v5cwxc8zzrvjdy9o016t955asow73bg2v2qp7kh0tub9v9t5u3hwmz
-# dummy data 204830 - edjl8o31aw088fwm4573d2fb3q5offcko49973aiblakx425y92vlfs7ugh8
-# dummy data 258240 - 7nvsf9inemxi3a7wz1jc707hs2msu0cqhsvw94w43kdv5jpwgilpyzb8f0bb
-# dummy data 530780 - qhz57tyjc3bdhoyh0anc3zvj95ldsqukng3l7xlzfaq81xrl37qavugy5s5x
-# dummy data 843226 - wisqd2b36h2t5ii429wfogv8wjlhvrpj5hfpjh1yzpswz1p9f4oh1r6bsbjh
-# dummy data 646324 - uunu4wecqto903q66qkztfy579xmo78tov00hv3wuce0w7k1lgyke64c3bnb
-# dummy data 328066 - c0zv7dto1dfelqkwf1cq020riizdq1zy0ls7qqowrgq9j15z6811vl2qt2ds
-# dummy data 830591 - zq6lw44n8rukdo6l8fb2sl4u3gb5k4scf8jcqco61e85i6tgbe3mhiv8axqz
-# dummy data 630469 - picbwombvfb2vq4kz2os1688ymoxll959boi6k6xwjbud2pj9cmg6fswnnsi
-# dummy data 823990 - 4sva9vuul4p7kpf9gey0iniuf9dgeoi2nn0byunjtcb5sdv33hh0o32o5um2
-# dummy data 589418 - caqumhzpu5d3yn4rx1tb8ipszyix18h2wa4bdswc1enzgl3sbdf8wuf5brgm
-# dummy data 842869 - lrcen9vviwk42f9ltuqyklkyp92k0fe27sbekv7bcysfa525w8ssp7gps69x
-# dummy data 748275 - 1wdbt3shdc0ttetnvhbcjp94ycfwadri6miknj90w6ggucyqgwz2h44kh0ny
-# dummy data 400794 - qc66ck81r1dogmu7w7ok2x19ynnpppak65b1i6kgmge6goe3ygv7odywe4lv
-# dummy data 396079 - 1tqwact25w00oqaw0j9vk7gmhyrr9mfonz4k4dgttgt5aan3tyqjbib903gj
-# dummy data 797879 - 8upa6uzv976b4inyjwvesqqqfgd1ktzjck8bnr1ts37vzvuugn0fr9yyyc8s
-# dummy data 882492 - j93vkce4bglv1b9q783c28w6qvg1we93n01l0cadcbtz1446lq96xgbneus4
-# dummy data 251488 - zw3me99qj585jihalc296u5ngd8ftvglixissilxnihuqstqweg26ezu8fcn
-# dummy data 251976 - rgttnqfbe1m6sr9r4its6ku7go4hnvkgxewn0xfl3u0np9lhe1dvgttd15v1
-# dummy data 340258 - 6zdbxqp0c2am13fgrbi4jhlpvmwwhll9v8ux77w658zk33uv0t19834qd4w4
-# dummy data 575723 - 6pexwvvkd52itkgikcu7qqng8mqjox4fstwd42t6j9eeqpdooqzmrau96ivv
-# dummy data 362063 - kau8vieqse754rfugm7y3zx3o7xtty2cfqxyedsq0dcj0e2meu4zombpaan1
-# dummy data 397713 - 6fz26ypvhihrekdix13r40ppj6djrcejrw8y1dzjfq4gjwpaurc9h8r28txl
-# dummy data 783779 - t9o6d8xv3c49lt206o6tj8w6v48kpxix952leiii1zl1n7mheh646kmh4xvw
-# dummy data 715046 - aj89m8s1nlpaaamtjdqbmlel8i0npmlihqwu34uhtczv3uym4uexm3lgk2i3
-# dummy data 165766 - z0xtrdqtrh19lhv1zbgt8nyoavytuhaae2t3t5iawurxpz1ko1stwai3l3wk
-# dummy data 197015 - 7n47jtgv3nzxjfw7vuwdk0niulcv4bl0mucihr3gxsl365ibuscy5z8c7f5l
-# dummy data 506538 - l9kzqpqfvlmmpy8sa3als05lq3vxl982wnrt7jods0dzyc4r8x38gxpxcjcc
-# dummy data 450137 - pp9h4xrekjaeh51tnrb54z88u6nltgp9wwha92b4m76u47q83oy790ieimto
-# dummy data 864899 - ejia9x8ux6s8r8oj2f916mxi9s91mamwzaukl9yqzmmpevkizu912u9hj4j1
-# dummy data 635033 - 3vnpgsfl2ohbhglwinyuddee9vo8xxj22itzc0fgq3sblwh4529xypshys4a
-# dummy data 228600 - syz3dr6hz0vlkuo05c8d6vwsl47vcke9po40yltp5ki754d4s4y8358wpj4i
-# dummy data 641032 - 8mtluv1sqj0ic31aevb9z3bncehpfv1sytnhs07gi1sueafqz00trss2dh72
-# dummy data 723535 - unrgldtvybh4ev4favfr0o2zoi5cf791d8wojamz3eizz14jvgrae5808izi
-# dummy data 119455 - 3831it0qgtsj0y0wh8j33hutz4qf8tt83sty9qy1zkexuqtpv0e1245bcb3o
-# dummy data 967118 - s0ty6u5kma2be9dx6pgxzo5fnc5krpqqno0paktc4ksln38qgk9ecw4fandd
-# dummy data 841913 - t0701v1cyah0wn59jsdscr0xhldkfrmyn83cfjwsqdwa76fk5blrn5zic3b4
-# dummy data 857648 - 0zoqqaqjug7dc5m83wld43sqfs4udgfmu0zt3tra1ybqjvsc29pux2yx13rg
-# dummy data 228267 - esvpkxthfvabsvsy9su15fu2ug3qle740jwt8812pza5t7z7h48gaqs4si40
-# dummy data 126393 - ybqtqf8pyyjh5mqxufclitk60fhr7ul7s1ac7udp1axe96m3g29qzr2254bv
-# dummy data 214878 - 1fx5dxd5plxm7vqdbrrzvzd0pj8w767i5ldm4xgtqhbq7euubz63veik5zfr
-# dummy data 444953 - kvgup7rofvvkb3iko41w55njku1sxib8qylrc9xgdrk6axfre4ixnxxo3b7h
-# dummy data 927065 - o3jynjhddkirns33z9ma7nmnl5xe90070o6yjqfgbrclvjoqui8sv19pc31e
-# dummy data 473902 - amyewy55v4i60isaeqjbwkhpxgkvvpe45tf5cjm4srfnlippgtiz9u42uxwd
-# dummy data 779075 - gvm5qxevcltonfyxva75wub8dpzqqnz7naake0fazhorpqu0lp7pm54n82cj
-# dummy data 987654 - 78jlyj3d1btju41c35xjhwfwv8r6neorozvigqetqsuy7p7bxvuzhl81b5cg
-# dummy data 777725 - di2fksa7g2mbmh9cf190nwjo3kud0lprco8z7o181oq74ver8ojvxfv2b998
-# dummy data 902462 - pihd27jfnkmhrijuqbbkasytad8m5yz1ui4ixymw9hie80t2vwr6u88cvoiy
-# dummy data 881969 - 63ydq78bg6mv1kydw0mllbrqe8hcbx07ueg5ypsa4jwjvvkruszi1cjj4fgq
-# dummy data 780844 - 9crkmh55mn8q4950wgmbakxlrnk05ldnrhcq2845dfm3m9l97ynzg91ruybj
-# dummy data 359915 - reqoutmkzxa0lcly3advsnpngs4iz96nmxo2qcv69gvq2hrgbbysh8blemlb
-# dummy data 223092 - 96706jrih3kxbbmocagqmf7je70cmr8axugnsawcyxdqs0fqr54767whnu15
-# dummy data 434940 - oyc04lpwtbrn87b8ktasopsohpsmrj329k0qche6yrwz5naxdmdq2ow152tn
-# dummy data 607935 - n910q5pd084hqzic6bfnswnmawnapt8w3s9kem59b41og2stvkl11exgqe8i
-# dummy data 696312 - hourq7fo6yfvs2ew4394vkpwdj8cycnfadtbbnlrn6qoab41llu4elgamoct
-# dummy data 504775 - m5o0me3rzmteuukxs7ury3t9504wktcygiti3g6l7rpzrrn2xe7sjn5djwoh
-# dummy data 257831 - 8n8owabsunml967t4uu2h0qrl8wtg9ufzf3jpikdu2asfkpand0fu54biufv
-# dummy data 537658 - inkwq4md03bdhm878uq94vm3bcnuxh5umqqvowoq3emdgxacovvyb0tm7fia
-# dummy data 623702 - nyqnvb4p428wvlzflr04z7voxm2oggvk9c7rt0p0je6va6zcupbroc71fg5t
-# dummy data 727528 - islk4v1si6kfgiyhazoqb0drh44pna33jibvfrk0tyblsdumolh6cn8czgkh
-# dummy data 397894 - my4ebo60y7gugirggpakg4txpvr18qqwj6rg27v2hl62y6tmgdvdhhqf60kv
-# dummy data 142766 - jd3wuey7zqgeu62qzeghvotxd407kkelxsbnr6rvkpaz6l3pxumqd4iakq6p
-# dummy data 488068 - ut7ugtrtiyo5empaquxx7b47bmyhmvrguidxd1eh3ixqf0ctoe3dzbv0wp0f
-# dummy data 960173 - vogwwvfxthxjspmeqobwakz0qr8osaxt93iewqzcqt1gdg5xlm15vcdh7rvz
-# dummy data 381051 - dgeyp417gtjtz2lzdpe0jc36kos04wzbx4um43cb4h3ylwcl79g4ydjyknb2
-# dummy data 751259 - tyx0mzf31x22bxbeoh9g6rub45l4jwo1in0vz62wyq72k43bpdvxxqalsobg
-# dummy data 662778 - bmyo114o8j5v2qqj407oaj2vprkj2qjsmasubranaxabrcdzlf97hk1ueqvp
-# dummy data 156300 - ba4x4f4bbf0qg2n2syj5kfn96gddu70oqc6wu09ply6ypkzcorm758jv2gdh
-# dummy data 767652 - 09ykqj6t1lgg3k8sbfooceph8ijfeg77d9pxvl5dhp7cb26psyq96mlv7xta
-# dummy data 867303 - 52nvcpk8n7bv2hivqalle85sogvt514fjmitdxmlo52bkuh2vddw1x473zox
-# dummy data 602900 - yeyr8lzug4h0aq4vsi9p1jq7wmljy9dfqyudq1igc9ozsgjkxnx0x6ctt7or
-# dummy data 557273 - a4y5c7hc7mf63dyzxppcmcdqotq9wth02tg5dplvgykbwzwtno7ob4dja4b5
-# dummy data 765633 - 75dk6nvo8mn6g9ohtakhs3rjimxpvtw6htwhcil0qr80k9syq4ud68whw9ma
-# dummy data 599813 - 1etooc2utfpkh2s18i2121n4ll635ja6fggc3aa3h3blhy10jg6r5b6i5vdw
-# dummy data 456391 - swwz5aif7tq3hgvq1eqz3fxr07fh4y2wnohu3uiugm9zbso02lzul6jdo2uc
-# dummy data 972487 - b0kyb7ve98re3llnl76tvfi4raohzxsmp4tasys1ibbhzvsjbpaac00m3sp8
-# dummy data 840429 - j9k30h5x4ewi4fmk3a0tp1dghqwdxupryyw6v844aq616q1gbqxbb0bx4855
-# dummy data 690160 - crwojmutmj1ipdvajc9geutlw77vrv9h7jvcumxly0s97gggd6a26gfohv0z
-# dummy data 721517 - bvjikbo6i5r8zvtvrfvagf7ea73trarh5kkyatd6iw5aa413h33ybgfji899
-# dummy data 519139 - f3m9in099k9rhcozkxgsj4wamwuz6juljwq1w15ieugxug3n8dl70t224oeq
-# dummy data 995294 - fjyn9h5yb3em3bx8y6xlt41bk5yta39jqztzm90avbnjum3fhghos11om1q8
-# dummy data 542294 - b6xbgtbnbzy3gzaqin4sr92884gdevpdup8dmahl94avx3zovdik3dx06duc
-# dummy data 486113 - mm8t1y8iifobmeupb7mvfng1tc27pkp1708fvg005trg60i1rulitq6ju40w
-# dummy data 342742 - 5lmh66pde5oc0wn0qifuh1fbs2huk7mygrjpawzi7zsvjqvr63mzhydrnnyv
-# dummy data 476986 - 4wqk9090tttc8usarwuo80m5gjhcoyilxk9pajk805g4xinhcz6jveftvp5f
-# dummy data 363015 - 6v8ktnaf8uwoudzjrwdhdbjlk7w52bjx0u2efo4c0k6f7ga07t703ap4ilbv
-# dummy data 690562 - tezrig190q5klt5u2i88gy8ds3um5k3jh6yg2nmbw5ph9kbl3m0psmjbtec9
-# dummy data 776650 - xrogy9ka02h5xkrp1y88isr8lky6r4dfc1j7a1jsb6ma0jzt5t3s3rdo0x1o
-# dummy data 909620 - gjdlezqk5jpmb0ty6ldy6qpdgdatnb3jale9lzo3irmlg98znh0stqtyx3uq
-# dummy data 893672 - 877w1o1rlnbjrji58oioodzv15np5m6yde0v2qvii6gt4a2xh0dhdy6x3y1q
-# dummy data 854000 - 6enyllsxg7lq0p8ruv15oxapem3vp2kyx84q6mtr4vvsiajufviarweldx0c
-# dummy data 202294 - cijwi6p2sw1s7vmxlflqpjmx0y05p5b0bourrh4l86bzwnupfyuvrs73232s
-# dummy data 160172 - y7lkx4xi4ttlesjzhpmssthezvaw8uv7wa8y0y01n0crpcuytcohovxbpcdt
-# dummy data 343540 - h8ndtrye6xz2zzts7zjqzjfqn4mpj35lee5mwzia3d7v1t49ps7mov0hpyeq
-# dummy data 241954 - a95phz88p4nupfdd6hxoex8pfg80kdk32cc4rgbkbxf7l3gx16k4jqbndt5t
-# dummy data 294035 - 99uelxmy79gtur70athkc0thzoaiia3qee8aegou688oetqbjmnlp0jd6fkj
-# dummy data 848170 - gv9b4syzt2lddk9ezrb82mf9var69b0vyhu46ik0z2h69ju7gv4spm37fig2
-# dummy data 308013 - 5wzofp1azphg5hzc7wsqk1whg6mch0vit1uoxlm25oenvtfkq30tklwqcdld
-# dummy data 708838 - 2rui0dnv2gr9fbigolt6qbl6ru7v49i6v7izzxehxoosk46brg3mq78vruz3
-# dummy data 987049 - gtrvdj4ub6f60fm44mybep9f4vti8mqw28x6qz9zzf7oe5njahyhk3jrsgov
-# dummy data 403833 - hfqga1l1lnmgio909zjyc8v6kzouojgv5wlnlbibjysqnij78janxbwq460e
-# dummy data 798665 - mwy83plhdlv1yo1qyeeomysi5vkvea2m2c1hgtydhwroz5kywpcrzhwq11pg
-# dummy data 247711 - cnj2quc3ifetszekkrxryjmyoeg2fq0vclf6n8dc4pa8ws2kd1jica7ko50x
-# dummy data 485363 - m1ztg1tl9gctfly4jfwmvnfhjd2j88mjd938w2eotso9otxe30dfvsub0cum
-# dummy data 985300 - o3ckvg7cnwqgh3bfeym3v7dv5pymm9b4y9yr86gkfbqx0wokbl53crmf9zos
-# dummy data 760831 - oztq0vv4eocbx1scnl9l442p7wz4ci5e07g6ks5n2bhg17r91i3mc4hsp2nr
-# dummy data 563201 - jzzfje71irqotvc2bzxcn8qhpbeop8b92l1atwqaenwh5gso9wrxcdddtzn6
-# dummy data 452404 - 9urcnhcxme2bsvkxh4a21rfl78unxhp6rewbhgd4ni8wghlohmacy8q9m8xh
-# dummy data 967608 - flx5p3ww0krlmr8hs3sz1p9n21tgavo5jz1ksu80qmshtyjpm6pbt8tuk448
-# dummy data 451076 - ya5lv107h72gmyv4rn7f5cs83hbii70jrf3u6p8usf1t3f32zw3o37sl2vzm
-# dummy data 703311 - 8l9hjihvnwiehjcs52qmb3lg5sbomc9qk49m3akfqyxe5gl1fo7hnugex1x6
-# dummy data 973016 - oadto2gt7rsphdc7qyuuyfo5ppbxhc2nepaajj690dmrg15x3hu0liz3nw6l
-# dummy data 567543 - j9yk8mm402h5c51ra3jmy6vz04aakews9wmdr6f8pfs6ujcv238nt3hcc40o
-# dummy data 435880 - lehtkt382sdyz0o3aejj117msgh9rmugba7t53sqqop8nimb8pvo0l7k558p
-# dummy data 745968 - r0dzx9n38bfi4o7a1jb1v47220m9kua52f3oiku4j1iiaks2tplqy86i5zaz
-# dummy data 976254 - q1m9ropuda4txw1pc4u6s95ks164bjlvaf61bccjwns3vpcnewnz7oe3tj74
-# dummy data 695242 - l6oar9hmccnuggua4nnxwtu7hfnay614nobr42qwv3yfsrvztb511kit6mvk
-# dummy data 204654 - x3jvwvgtef5xw0vyk950q5fkss75n7gps771ezcx8sycvbaw6cwbxg0v7k39
-# dummy data 334683 - yvpwlr5x0777foigtf3qzge2p1wl8qn88nbolcv1va8gmm2ehn6f9sjlbrhd
-# dummy data 429839 - i3202x4ju37ehve8afyt4ylyl8z9rgwo69jiogjo9lygdy2fi74o9r61hhd8
-# dummy data 950834 - 4awn683xmtm0m1loyimc76unt13vwlgm9mu4scp1zrsqr4x6wrxpwb6xd1m4
-# dummy data 997464 - r4u5h01akmcs1so6agytnvu327yf5agd3hzblj1u8u6hne7215316fi5hhh6
-# dummy data 539783 - nv72uer5jrmlk3hi0p4kotwp6sihpj0ze3blb5t4ewheu4pmk2fom6ah2t2r
-# dummy data 473748 - 20yjtzq1jiv1h3bvrdzv2mf2mxvupfuux9gc9fj6rpb51mnd9y58wedx4eb4
-# dummy data 629930 - tll16f7wjkermpvkb3as2o4iv39v69kaggtpyt4j3qybogmrfzaawf35bg5y
-# dummy data 125220 - 1bou32804s95et3ri6285qap2s8d8mn2ogl0d9749yy0izeqfslbzb1rqntb
-# dummy data 120644 - pp4zvoao9ansogxv9eavbyjginy7ojcdu4vgeb9z3i7gs7x0qcqt23tns0nm
-# dummy data 396885 - ckv9sw4e7lq65j9jg9yi3kn4ainyci5ib628h0alar9emregjhym5x7thid9
-# dummy data 357133 - nlgfcejwwija4yyg0lh6fyq4auuaypsz78y75x6xrpgoyh9acye2uvv79if9
-# dummy data 815934 - mf15xylb2qsdm3mjeu241tm7txugppguw7kuy6j69emp5oa7hyup7vl2ms6a
-# dummy data 166699 - pob5f859f7jlri7m7ic9nhbdc4d4cnw1ox816v4pvkwuc75jvtr9wsvm563q
-# dummy data 179844 - avg38lejlgdm1jb9i71f2jwuk8qazrxerizqbwrfdybyjgrjso6neo9ub948
-# dummy data 692310 - hikv4g5vdloykd5dcf47h20sv1dx0fi0mzhpo5l9kd3ce64e03elexdaaj01
 # dummy data 257875 - oo4x2951r5olxs5y1eqkjt72ae0ymu2fv3yngkajyenrz0cjnmxlr3rrshsq
 # dummy data 858655 - kmpcmu7kee920hsbg07ugu58ppd1x649h4midbi7gvjokfrdq6hnlbscakmb
 # dummy data 150969 - 7m1x1l7p3jr3i9qiwxqirejqv3yveipy1213qprtidq8wa5g152kidr8qyrl
@@ -4034,3 +3129,3183 @@ VERSION = '0.0.29'  # temp
 # dummy data 503396 - cwe9i2gjvu3g66tlz3rswlouk5c7br6vvjkc2ums9h1hvmkg2zcn5lxx8o7v
 # dummy data 564372 - 7d4ixwazcy1vt7e7o6aypg6cswzwht09beu2rwiv5e7mqjcghtr6g0ac6fl4
 # dummy data 645099 - 6vzd546l4mz3b9rgf58grvwqp29zfsx4o9gk8bmjnker9hx6ljjzvgtew208
+data row 417237: value=0.1548
+data row 926539: value=0.9506
+data row 80429: value=0.8067
+data row 398535: value=0.3664
+data row 843870: value=0.2485
+data row 324269: value=0.7609
+data row 851660: value=0.0915
+data row 907999: value=0.7128
+data row 668399: value=0.8070
+data row 585573: value=0.0980
+data row 733011: value=0.9739
+data row 800734: value=0.9281
+data row 464247: value=0.4844
+data row 265779: value=0.2602
+data row 241624: value=0.3229
+data row 193052: value=0.8609
+data row 674438: value=0.7856
+data row 391374: value=0.5758
+data row 753888: value=0.1784
+data row 667854: value=0.1338
+data row 838614: value=0.5640
+data row 181589: value=0.8127
+data row 670710: value=0.0391
+data row 75941: value=0.5886
+data row 367603: value=0.8467
+data row 610091: value=0.8430
+data row 807388: value=0.8013
+data row 359525: value=0.8189
+data row 381681: value=0.3698
+data row 815109: value=0.7161
+data row 546932: value=0.9380
+data row 874281: value=0.1758
+data row 686958: value=0.3244
+data row 880279: value=0.3049
+data row 120807: value=0.2768
+data row 781901: value=0.6815
+data row 929941: value=0.3545
+data row 684124: value=0.1483
+data row 504917: value=0.1215
+data row 620582: value=0.3329
+data row 326486: value=0.4712
+data row 483066: value=0.2975
+data row 193186: value=0.0724
+data row 847304: value=0.3617
+data row 857757: value=0.9226
+data row 248245: value=0.4218
+data row 984887: value=0.2990
+data row 485573: value=0.6328
+data row 862860: value=0.6397
+data row 430854: value=0.9211
+data row 979080: value=0.3402
+data row 881157: value=0.0038
+data row 427101: value=0.5623
+data row 354515: value=0.7794
+data row 909679: value=0.2396
+data row 846907: value=0.2854
+data row 698436: value=0.7525
+data row 251325: value=0.5409
+data row 471878: value=0.5867
+data row 82263: value=0.9111
+data row 78794: value=0.9411
+data row 862692: value=0.7924
+data row 350026: value=0.8250
+data row 720362: value=0.5014
+data row 587318: value=0.2197
+data row 21438: value=0.6932
+data row 227539: value=0.1844
+data row 402520: value=0.1876
+data row 693625: value=0.6585
+data row 497101: value=0.7290
+data row 585791: value=0.5648
+data row 781222: value=0.1342
+data row 971832: value=0.0487
+data row 143603: value=0.8319
+data row 22348: value=0.4019
+data row 435759: value=0.7896
+data row 770278: value=0.4554
+data row 12658: value=0.8471
+data row 909862: value=0.8803
+data row 42284: value=0.7910
+data row 249696: value=0.3427
+data row 696499: value=0.7610
+data row 506509: value=0.6963
+data row 829176: value=0.5478
+data row 666266: value=0.7848
+data row 610637: value=0.0192
+data row 188959: value=0.9055
+data row 694556: value=0.3068
+data row 404846: value=0.7248
+data row 794227: value=0.5008
+data row 785019: value=0.3532
+data row 665124: value=0.5551
+data row 698039: value=0.1202
+data row 318226: value=0.0932
+data row 518002: value=0.0740
+data row 509134: value=0.0149
+data row 545168: value=0.3763
+data row 176960: value=0.8414
+data row 393556: value=0.3987
+data row 123158: value=0.2730
+data row 12713: value=0.1226
+data row 366733: value=0.2271
+data row 970167: value=0.7722
+data row 226903: value=0.2350
+data row 613861: value=0.5936
+data row 749886: value=0.1021
+data row 626347: value=0.1120
+data row 343144: value=0.7846
+data row 435777: value=0.4441
+data row 981706: value=0.9887
+data row 281847: value=0.6814
+data row 845873: value=0.0879
+data row 683498: value=0.4573
+data row 200529: value=0.2074
+data row 499450: value=0.1622
+data row 612181: value=0.8905
+data row 879055: value=0.0890
+data row 736565: value=0.3673
+data row 53350: value=0.6593
+data row 324914: value=0.1774
+data row 908263: value=0.7067
+data row 379581: value=0.8536
+data row 580860: value=0.1364
+data row 240031: value=0.6349
+data row 109192: value=0.5438
+data row 382289: value=0.9428
+data row 336949: value=0.1886
+data row 17514: value=0.4080
+data row 696605: value=0.3282
+data row 125701: value=0.6038
+data row 280258: value=0.1169
+data row 290515: value=0.6977
+data row 419058: value=0.5700
+data row 824703: value=0.3506
+data row 188618: value=0.1722
+data row 284467: value=0.9960
+data row 872650: value=0.2143
+data row 913604: value=0.8794
+data row 928073: value=0.2073
+data row 549806: value=0.4223
+data row 562368: value=0.9729
+data row 504092: value=0.0631
+data row 530160: value=0.2869
+data row 369633: value=0.8457
+data row 82801: value=0.0148
+data row 57304: value=0.8896
+data row 515175: value=0.8255
+data row 661223: value=0.0266
+data row 709958: value=0.1348
+data row 334360: value=0.1064
+data row 74117: value=0.1654
+data row 592132: value=0.6345
+data row 199582: value=0.5284
+data row 916473: value=0.5479
+data row 80330: value=0.8192
+data row 102542: value=0.0820
+data row 413551: value=0.5615
+data row 45253: value=0.5462
+data row 601829: value=0.1259
+data row 351870: value=0.0255
+data row 28428: value=0.0983
+data row 101598: value=0.0046
+data row 307362: value=0.8136
+data row 847900: value=0.9521
+data row 475589: value=0.3118
+data row 396218: value=0.6610
+data row 585172: value=0.9742
+data row 730935: value=0.4646
+data row 538971: value=0.3374
+data row 662678: value=0.9546
+data row 303540: value=0.9994
+data row 145003: value=0.5216
+data row 180246: value=0.4893
+data row 501894: value=0.9873
+data row 939362: value=0.6748
+data row 195074: value=0.0142
+data row 643913: value=0.0155
+data row 850138: value=0.4700
+data row 498055: value=0.6666
+data row 657964: value=0.4542
+data row 552765: value=0.0060
+data row 100282: value=0.9059
+data row 519658: value=0.3153
+data row 838703: value=0.0168
+data row 635650: value=0.7868
+data row 973103: value=0.5792
+data row 945001: value=0.9018
+data row 834247: value=0.7410
+data row 653919: value=0.9097
+data row 712169: value=0.0888
+data row 477664: value=0.7106
+data row 880997: value=0.3788
+data row 21894: value=0.7493
+data row 759325: value=0.8427
+data row 21851: value=0.5378
+data row 244456: value=0.9649
+data row 880858: value=0.8938
+data row 85627: value=0.6050
+data row 29305: value=0.2798
+data row 113065: value=0.4312
+data row 710811: value=0.6107
+data row 664510: value=0.7495
+data row 262729: value=0.3861
+data row 204709: value=0.3298
+data row 417111: value=0.9263
+data row 866790: value=0.9902
+data row 381362: value=0.3883
+data row 552318: value=0.5242
+data row 761065: value=0.3309
+data row 857698: value=0.7246
+data row 128969: value=0.7823
+data row 656841: value=0.7908
+data row 358997: value=0.5888
+data row 346470: value=0.0035
+data row 538040: value=0.8551
+data row 796589: value=0.1016
+data row 129270: value=0.3967
+data row 281498: value=0.8703
+data row 459091: value=0.6204
+data row 398125: value=0.2230
+data row 926515: value=0.2344
+data row 364923: value=0.7718
+data row 225615: value=0.3396
+data row 609705: value=0.4662
+data row 196268: value=0.7002
+data row 68875: value=0.4853
+data row 295019: value=0.5254
+data row 585711: value=0.5224
+data row 421048: value=0.0564
+data row 82896: value=0.8258
+data row 381086: value=0.9443
+data row 10413: value=0.9719
+data row 333013: value=0.7503
+data row 369837: value=0.0771
+data row 686214: value=0.2555
+data row 278338: value=0.8167
+data row 87950: value=0.1732
+data row 852416: value=0.9984
+data row 409079: value=0.7285
+data row 964903: value=0.2019
+data row 171437: value=0.3122
+data row 941846: value=0.5830
+data row 327309: value=0.4814
+data row 653907: value=0.4981
+data row 752403: value=0.7740
+data row 350006: value=0.2858
+data row 593013: value=0.6611
+data row 444420: value=0.8667
+data row 986580: value=0.4264
+data row 975779: value=0.5300
+data row 76505: value=0.6021
+data row 399108: value=0.5852
+data row 818913: value=0.1099
+data row 604726: value=0.8170
+data row 178243: value=0.1503
+data row 207858: value=0.5802
+data row 641331: value=0.6073
+data row 938339: value=0.5190
+data row 997030: value=0.3755
+data row 447194: value=0.8630
+data row 168727: value=0.6033
+data row 995689: value=0.1390
+data row 927108: value=0.4098
+data row 497764: value=0.2956
+data row 688392: value=0.4803
+data row 734018: value=0.2242
+data row 311800: value=0.4215
+data row 202387: value=0.5903
+data row 548492: value=0.0340
+data row 444061: value=0.5516
+data row 396670: value=0.0700
+data row 369117: value=0.3830
+data row 153909: value=0.4486
+data row 404214: value=0.5744
+data row 113371: value=0.5751
+data row 946126: value=0.4144
+data row 553459: value=0.0891
+data row 349723: value=0.1443
+data row 668760: value=0.6241
+data row 19120: value=0.0038
+data row 894239: value=0.2271
+data row 348281: value=0.4000
+data row 338920: value=0.0441
+data row 70050: value=0.6606
+data row 687431: value=0.7522
+data row 787365: value=0.0839
+data row 848881: value=0.9232
+data row 118595: value=0.9676
+data row 516770: value=0.3420
+data row 165375: value=0.1373
+data row 487574: value=0.8032
+data row 431077: value=0.4176
+data row 797254: value=0.5727
+data row 384065: value=0.8218
+data row 258507: value=0.5231
+data row 886575: value=0.7002
+data row 665217: value=0.8789
+data row 583702: value=0.5628
+data row 719297: value=0.3235
+data row 742589: value=0.8086
+data row 885602: value=0.9565
+data row 155662: value=0.3889
+data row 573162: value=0.6470
+data row 790115: value=0.5498
+data row 398956: value=0.0590
+data row 75060: value=0.4577
+data row 576832: value=0.6997
+data row 983922: value=0.5197
+data row 896797: value=0.1179
+data row 215233: value=0.2461
+data row 581616: value=0.9892
+data row 694826: value=0.6854
+data row 371162: value=0.1933
+data row 567304: value=0.3191
+data row 158532: value=0.4974
+data row 767856: value=0.1835
+data row 483813: value=0.5302
+data row 981058: value=0.8406
+data row 406030: value=0.5522
+data row 404974: value=0.1224
+data row 468484: value=0.4108
+data row 845172: value=0.3528
+data row 560864: value=0.7229
+data row 822951: value=0.2820
+data row 874609: value=0.2590
+data row 222847: value=0.7057
+data row 452662: value=0.6392
+data row 742242: value=0.9590
+data row 230560: value=0.3945
+data row 97661: value=0.3324
+data row 144496: value=0.7035
+data row 50990: value=0.5456
+data row 631655: value=0.6103
+data row 163028: value=0.1457
+data row 534643: value=0.8219
+data row 250625: value=0.1756
+data row 808584: value=0.4702
+data row 408414: value=0.2759
+data row 884337: value=0.0340
+data row 839136: value=0.8439
+data row 832165: value=0.1615
+data row 872990: value=0.5405
+data row 484785: value=0.0865
+data row 433502: value=0.0586
+data row 296864: value=0.0454
+data row 131340: value=0.0871
+data row 693865: value=0.1198
+data row 109244: value=0.2853
+data row 409001: value=0.0781
+data row 319204: value=0.3482
+data row 163349: value=0.4919
+data row 632046: value=0.7063
+data row 130923: value=0.7669
+data row 675386: value=0.3230
+data row 698241: value=0.7286
+data row 990005: value=0.4367
+data row 307509: value=0.7087
+data row 769953: value=0.3860
+data row 164018: value=0.9274
+data row 456413: value=0.6181
+data row 627030: value=0.5796
+data row 808328: value=0.7958
+data row 122673: value=0.0894
+data row 618165: value=0.0248
+data row 112995: value=0.0788
+data row 649374: value=0.5525
+data row 227449: value=0.6751
+data row 36601: value=0.5140
+data row 720324: value=0.6965
+data row 983125: value=0.0523
+data row 345966: value=0.6698
+data row 988859: value=0.5096
+data row 743822: value=0.5078
+data row 16886: value=0.2313
+data row 942310: value=0.5091
+data row 74840: value=0.9047
+data row 763471: value=0.9061
+data row 772382: value=0.0935
+data row 339158: value=0.0993
+data row 838859: value=0.9454
+data row 876218: value=0.1850
+data row 490666: value=0.3047
+data row 407947: value=0.0944
+data row 510840: value=0.1675
+data row 564521: value=0.8626
+data row 333448: value=0.5430
+data row 100524: value=0.4231
+data row 530110: value=0.7461
+data row 575265: value=0.4354
+data row 374772: value=0.0857
+data row 93345: value=0.4288
+data row 896013: value=0.9114
+data row 437446: value=0.2749
+data row 21820: value=0.7613
+data row 810029: value=0.2012
+data row 806130: value=0.5558
+data row 150474: value=0.9130
+data row 63787: value=0.0125
+data row 454495: value=0.6683
+data row 759035: value=0.9908
+data row 315827: value=0.9175
+data row 330098: value=0.2443
+data row 964587: value=0.7119
+data row 219922: value=0.7714
+data row 574466: value=0.9563
+data row 332139: value=0.4169
+data row 221647: value=0.7210
+data row 458375: value=0.3208
+data row 120309: value=0.4808
+data row 188347: value=0.6102
+data row 824796: value=0.7361
+data row 742784: value=0.1817
+data row 123015: value=0.0946
+data row 667752: value=0.1967
+data row 218843: value=0.6997
+data row 414015: value=0.4277
+data row 870805: value=0.7374
+data row 698641: value=0.4398
+data row 51499: value=0.6841
+data row 826658: value=0.0212
+data row 685671: value=0.6658
+data row 903703: value=0.2795
+data row 671165: value=0.8487
+data row 209100: value=0.1541
+data row 345060: value=0.5355
+data row 25030: value=0.2585
+data row 862306: value=0.4207
+data row 783691: value=0.4594
+data row 915355: value=0.2189
+data row 54922: value=0.9962
+data row 154227: value=0.1182
+data row 184299: value=0.0595
+data row 675926: value=0.3419
+data row 273384: value=0.8745
+data row 768146: value=0.4642
+data row 315779: value=0.8422
+data row 312547: value=0.0853
+data row 312939: value=0.3788
+data row 921667: value=0.0134
+data row 878533: value=0.9072
+data row 715686: value=0.4830
+data row 331377: value=0.4266
+data row 458626: value=0.8564
+data row 138788: value=0.6643
+data row 500995: value=0.4338
+data row 607034: value=0.6805
+data row 161336: value=0.0578
+data row 475100: value=0.5340
+data row 656553: value=0.8207
+data row 644479: value=0.4722
+data row 105708: value=0.7248
+data row 714274: value=0.8268
+data row 135144: value=0.9502
+data row 194770: value=0.6570
+data row 531277: value=0.4833
+data row 545350: value=0.3048
+data row 57911: value=0.6331
+data row 726872: value=0.2820
+data row 867227: value=0.8636
+data row 814053: value=0.6338
+data row 948501: value=0.5974
+data row 217521: value=0.3568
+data row 924121: value=0.1741
+data row 581259: value=0.9566
+data row 543219: value=0.0118
+data row 972231: value=0.2939
+data row 779016: value=0.4873
+data row 514578: value=0.1919
+data row 971131: value=0.6579
+data row 808775: value=0.7784
+data row 930293: value=0.8708
+data row 794844: value=0.0596
+data row 769283: value=0.0051
+data row 219319: value=0.7602
+data row 813556: value=0.3505
+data row 220794: value=0.2998
+data row 444043: value=0.5367
+data row 462709: value=0.6115
+data row 250611: value=0.2082
+data row 435140: value=0.9821
+data row 532795: value=0.5068
+data row 920576: value=0.3050
+data row 830580: value=0.2875
+data row 987225: value=0.0820
+data row 705752: value=0.8173
+data row 176687: value=0.9190
+data row 989233: value=0.1652
+data row 878255: value=0.0087
+data row 560920: value=0.2959
+data row 836178: value=0.3228
+data row 500107: value=0.7770
+data row 907994: value=0.5612
+data row 216767: value=0.7797
+data row 822329: value=0.2159
+data row 927909: value=0.4834
+data row 964460: value=0.4406
+data row 845935: value=0.3217
+data row 527203: value=0.5348
+data row 21243: value=0.2350
+data row 22553: value=0.7158
+data row 521574: value=0.9996
+data row 980278: value=0.8877
+data row 401358: value=0.3720
+data row 81410: value=0.1128
+data row 964399: value=0.2400
+data row 963338: value=0.3948
+data row 534443: value=0.3552
+data row 67810: value=0.6944
+data row 78513: value=0.8485
+data row 105034: value=0.1707
+data row 720966: value=0.6112
+data row 53131: value=0.9114
+data row 877753: value=0.3211
+data row 193470: value=0.6921
+data row 779928: value=0.9299
+data row 658368: value=0.4986
+data row 671623: value=0.8520
+data row 998402: value=0.9622
+data row 70968: value=0.4584
+data row 789101: value=0.2294
+data row 80416: value=0.5916
+data row 356669: value=0.2418
+data row 574424: value=0.7963
+data row 165475: value=0.4109
+data row 970880: value=0.9930
+data row 749321: value=0.8954
+data row 698964: value=0.2482
+data row 570074: value=0.3310
+data row 21486: value=0.5641
+data row 125657: value=0.4751
+data row 683967: value=0.2063
+data row 340629: value=0.3835
+data row 249063: value=0.9807
+data row 735180: value=0.2540
+data row 203554: value=0.0448
+data row 542458: value=0.0916
+data row 842751: value=0.3157
+data row 308269: value=0.3333
+data row 959615: value=0.0839
+data row 469602: value=0.3647
+data row 900704: value=0.6015
+data row 476720: value=0.1796
+data row 619789: value=0.5193
+data row 562586: value=0.8469
+data row 702373: value=0.3434
+data row 101684: value=0.7202
+data row 998153: value=0.0348
+data row 189701: value=0.8310
+data row 704004: value=0.7972
+data row 548868: value=0.4787
+data row 240339: value=0.5348
+data row 845633: value=0.9430
+data row 825725: value=0.8763
+data row 228609: value=0.7259
+data row 752467: value=0.4877
+data row 723456: value=0.9049
+data row 68725: value=0.2290
+data row 725788: value=0.0045
+data row 10523: value=0.0750
+data row 956706: value=0.8425
+data row 463827: value=0.9759
+data row 874401: value=0.5377
+data row 671043: value=0.8906
+data row 948241: value=0.3122
+data row 767939: value=0.5638
+data row 179012: value=0.6312
+data row 989355: value=0.1493
+data row 318836: value=0.8733
+data row 512688: value=0.5136
+data row 747007: value=0.3281
+data row 44487: value=0.4654
+data row 351208: value=0.2230
+data row 348224: value=0.2314
+data row 153635: value=0.9364
+data row 669002: value=0.9084
+data row 439522: value=0.0573
+data row 468302: value=0.9507
+data row 258341: value=0.8442
+data row 708195: value=0.9170
+data row 819772: value=0.2394
+data row 131823: value=0.2151
+data row 793959: value=0.7549
+data row 417899: value=0.4933
+data row 963307: value=0.9730
+data row 147757: value=0.8781
+data row 511055: value=0.8538
+data row 429806: value=0.4761
+data row 125419: value=0.3744
+data row 995289: value=0.1778
+data row 599222: value=0.7798
+data row 961068: value=0.5266
+data row 627703: value=0.4380
+data row 523497: value=0.2625
+data row 288449: value=0.9641
+data row 673462: value=0.8264
+data row 166911: value=0.7599
+data row 446840: value=0.4459
+data row 242301: value=0.2089
+data row 109756: value=0.6012
+data row 609734: value=0.7157
+data row 892069: value=0.3116
+data row 380213: value=0.5300
+data row 268494: value=0.5178
+data row 278977: value=0.2277
+data row 358789: value=0.3260
+data row 827512: value=0.7113
+data row 898886: value=0.5928
+data row 381405: value=0.1941
+data row 584094: value=0.6410
+data row 249479: value=0.6986
+data row 168241: value=0.7241
+data row 946495: value=0.6795
+data row 108194: value=0.2049
+data row 950363: value=0.4592
+data row 572218: value=0.6781
+data row 779815: value=0.6857
+data row 906975: value=0.6053
+data row 460822: value=0.5027
+data row 663697: value=0.1289
+data row 643409: value=0.7041
+data row 326035: value=0.0035
+data row 165719: value=0.5078
+data row 789947: value=0.6703
+data row 146997: value=0.7286
+data row 799704: value=0.1806
+data row 341408: value=0.1975
+data row 794702: value=0.8594
+data row 909422: value=0.3995
+data row 231000: value=0.3739
+data row 908010: value=0.1795
+data row 606190: value=0.1918
+data row 674895: value=0.8666
+data row 879059: value=0.4420
+data row 528501: value=0.3899
+data row 776528: value=0.2300
+data row 681832: value=0.6993
+data row 938542: value=0.9473
+data row 786675: value=0.4566
+data row 186320: value=0.1428
+data row 191341: value=0.9403
+data row 854784: value=0.8368
+data row 454473: value=0.6384
+data row 414075: value=0.2651
+data row 924184: value=0.9827
+data row 121083: value=0.7718
+data row 88084: value=0.8007
+data row 689617: value=0.0847
+data row 117001: value=0.0515
+data row 732267: value=0.4910
+data row 806376: value=0.1124
+data row 693442: value=0.0305
+data row 270324: value=0.0313
+data row 791671: value=0.4461
+data row 619988: value=0.8374
+data row 609822: value=0.7139
+data row 270205: value=0.5551
+data row 54073: value=0.5024
+data row 227214: value=0.3136
+data row 816792: value=0.6821
+data row 12213: value=0.8259
+data row 826349: value=0.2125
+data row 118568: value=0.3563
+data row 22528: value=0.6834
+data row 133684: value=0.0966
+data row 973500: value=0.1184
+data row 282714: value=0.7465
+data row 57630: value=0.1610
+data row 112763: value=0.3782
+data row 558749: value=0.1923
+data row 551396: value=0.8025
+data row 99243: value=0.8878
+data row 224549: value=0.6938
+data row 82683: value=0.3158
+data row 174113: value=0.0574
+data row 174550: value=0.8100
+data row 777601: value=0.6779
+data row 377725: value=0.6116
+data row 411359: value=0.1452
+data row 396167: value=0.2240
+data row 17682: value=0.6646
+data row 708047: value=0.1830
+data row 612275: value=0.9178
+data row 424545: value=0.7497
+data row 151876: value=0.0288
+data row 157426: value=0.9384
+data row 400549: value=0.4998
+data row 27704: value=0.5813
+data row 753933: value=0.7805
+data row 282874: value=0.7471
+data row 547869: value=0.9374
+data row 99127: value=0.5159
+data row 646639: value=0.6087
+data row 56865: value=0.1430
+data row 903185: value=0.1291
+data row 462246: value=0.3775
+data row 819692: value=0.2395
+data row 280107: value=0.0631
+data row 852031: value=0.6133
+data row 185059: value=0.5966
+data row 181771: value=0.4922
+data row 801801: value=0.2349
+data row 240338: value=0.2874
+data row 898000: value=0.4201
+data row 730824: value=0.9744
+data row 118874: value=0.5809
+data row 135478: value=0.7952
+data row 503765: value=0.0194
+data row 360878: value=0.0585
+data row 482418: value=0.1164
+data row 745416: value=0.6494
+data row 364732: value=0.5599
+data row 866862: value=0.8376
+data row 950007: value=0.4237
+data row 639017: value=0.9897
+data row 153887: value=0.1739
+data row 776948: value=0.0960
+data row 944394: value=0.0924
+data row 505632: value=0.0730
+data row 86265: value=0.7439
+data row 371782: value=0.8825
+data row 263801: value=0.5604
+data row 686038: value=0.7750
+data row 558072: value=0.6418
+data row 505106: value=0.5861
+data row 763278: value=0.6205
+data row 443756: value=0.4883
+data row 808489: value=0.1692
+data row 17140: value=0.6950
+data row 211498: value=0.9361
+data row 110743: value=0.1763
+data row 68376: value=0.7750
+data row 913812: value=0.9097
+data row 641345: value=0.0658
+data row 45866: value=0.4676
+data row 401329: value=0.0093
+data row 556886: value=0.3096
+data row 412626: value=0.4307
+data row 748280: value=0.1281
+data row 370952: value=0.7751
+data row 301044: value=0.4768
+data row 710008: value=0.6220
+data row 96208: value=0.2803
+data row 206090: value=0.3362
+data row 271238: value=0.6686
+data row 482387: value=0.6167
+data row 381372: value=0.3151
+data row 332476: value=0.8011
+data row 513860: value=0.6572
+data row 135385: value=0.2411
+data row 493153: value=0.0742
+data row 795553: value=0.8892
+data row 101301: value=0.4690
+data row 22189: value=0.3832
+data row 21090: value=0.7051
+data row 931632: value=0.0671
+data row 879426: value=0.8120
+data row 601689: value=0.4260
+data row 219194: value=0.2597
+data row 546877: value=0.9428
+data row 758082: value=0.9017
+data row 766533: value=0.9616
+data row 280911: value=0.5771
+data row 173091: value=0.4125
+data row 503224: value=0.3186
+data row 341807: value=0.8994
+data row 468078: value=0.8698
+data row 624091: value=0.3218
+data row 326671: value=0.8338
+data row 554699: value=0.3692
+data row 690028: value=0.6463
+data row 555643: value=0.8219
+data row 705282: value=0.3813
+data row 61121: value=0.0421
+data row 547876: value=0.9966
+data row 627534: value=0.9166
+data row 979105: value=0.2757
+data row 62151: value=0.1210
+data row 455171: value=0.3132
+data row 608864: value=0.7349
+data row 224971: value=0.4707
+data row 751199: value=0.9453
+data row 306271: value=0.2542
+data row 84479: value=0.2436
+data row 578221: value=0.0906
+data row 622066: value=0.8811
+data row 496407: value=0.9418
+data row 316839: value=0.9589
+data row 74569: value=0.3208
+data row 853627: value=0.9295
+data row 779155: value=0.1826
+data row 924403: value=0.6089
+data row 71993: value=0.3683
+data row 823853: value=0.8467
+data row 333724: value=0.7864
+data row 995745: value=0.3446
+data row 944341: value=0.4551
+data row 952023: value=0.6270
+data row 801271: value=0.6068
+data row 459790: value=0.1617
+data row 298047: value=0.2181
+data row 209942: value=0.7280
+data row 365344: value=0.1685
+data row 706271: value=0.7647
+data row 617062: value=0.9954
+data row 606163: value=0.2334
+data row 908620: value=0.5939
+data row 52962: value=0.1093
+data row 122360: value=0.0068
+data row 283855: value=0.7221
+data row 607216: value=0.4134
+data row 701820: value=0.5182
+data row 29962: value=0.2223
+data row 362957: value=0.3084
+data row 397672: value=0.8023
+data row 864406: value=0.5718
+data row 517372: value=0.5068
+data row 636393: value=0.8350
+data row 550073: value=0.6364
+data row 682703: value=0.3995
+data row 279878: value=0.6714
+data row 180849: value=0.4474
+data row 57246: value=0.8664
+data row 481613: value=0.4077
+data row 903113: value=0.3908
+data row 997870: value=0.9796
+data row 382881: value=0.7839
+data row 368871: value=0.3430
+data row 945336: value=0.4566
+data row 847835: value=0.8244
+data row 562292: value=0.1328
+data row 68359: value=0.9236
+data row 566551: value=0.7002
+data row 398730: value=0.3216
+data row 724634: value=0.7325
+data row 368582: value=0.5223
+data row 402802: value=0.6066
+data row 262885: value=0.2752
+data row 904243: value=0.7011
+data row 629791: value=0.9175
+data row 959636: value=0.1075
+data row 583107: value=0.9707
+data row 573066: value=0.0005
+data row 208249: value=0.5124
+data row 463027: value=0.8742
+data row 438592: value=0.3747
+data row 182263: value=0.8840
+data row 750364: value=0.2953
+data row 367038: value=0.9346
+data row 147260: value=0.1450
+data row 555767: value=0.6400
+data row 711940: value=0.3231
+data row 990630: value=0.0546
+data row 336562: value=0.4189
+data row 772440: value=0.8223
+data row 317955: value=0.3718
+data row 33865: value=0.6881
+data row 580660: value=0.9954
+data row 322367: value=0.7810
+data row 440641: value=0.9320
+data row 465922: value=0.3476
+data row 125937: value=0.3032
+data row 41688: value=0.5866
+data row 114754: value=0.4979
+data row 910628: value=0.5345
+data row 486379: value=0.8792
+data row 319593: value=0.0756
+data row 561410: value=0.9405
+data row 419176: value=0.6799
+data row 651309: value=0.7896
+data row 652797: value=0.5244
+data row 554221: value=0.7576
+data row 624267: value=0.7847
+data row 35400: value=0.8352
+data row 119158: value=0.1643
+data row 521331: value=0.5593
+data row 670043: value=0.6741
+data row 386901: value=0.4261
+data row 533067: value=0.7496
+data row 692281: value=0.2736
+data row 284235: value=0.8365
+data row 131748: value=0.2823
+data row 327872: value=0.4904
+data row 339017: value=0.8076
+data row 119060: value=0.1005
+data row 711561: value=0.5837
+data row 390835: value=0.8364
+data row 839730: value=0.7507
+data row 39072: value=0.0714
+data row 224775: value=0.5619
+data row 705217: value=0.2950
+data row 788795: value=0.2123
+data row 61648: value=0.2955
+data row 713394: value=0.0866
+data row 875354: value=0.3546
+data row 428636: value=0.3940
+data row 611787: value=0.3996
+data row 927068: value=0.3176
+data row 691427: value=0.4204
+data row 595700: value=0.8965
+data row 56704: value=0.8747
+data row 225071: value=0.6499
+data row 779292: value=0.6379
+data row 795201: value=0.0990
+data row 987482: value=0.0662
+data row 499107: value=0.6437
+data row 322738: value=0.7101
+data row 80633: value=0.3805
+data row 938734: value=0.4629
+data row 786044: value=0.6359
+data row 606266: value=0.8139
+data row 866004: value=0.2725
+data row 655792: value=0.7551
+data row 301463: value=0.1604
+data row 948068: value=0.5636
+data row 221842: value=0.6643
+data row 538454: value=0.8208
+data row 809440: value=0.7437
+data row 974809: value=0.9466
+data row 128788: value=0.1088
+data row 910177: value=0.6987
+data row 897514: value=0.4823
+data row 519010: value=0.5002
+data row 237888: value=0.5736
+data row 493702: value=0.1991
+data row 546149: value=0.3217
+data row 880593: value=0.2705
+data row 986300: value=0.2940
+data row 910912: value=0.4370
+data row 284769: value=0.8769
+data row 152616: value=0.0873
+data row 142255: value=0.1658
+data row 698114: value=0.2636
+data row 663363: value=0.1686
+data row 469778: value=0.3746
+data row 38149: value=0.0100
+data row 786103: value=0.6304
+data row 226123: value=0.4155
+data row 44490: value=0.5336
+data row 996243: value=0.0556
+data row 338260: value=0.2576
+data row 849108: value=0.8720
+data row 844786: value=0.4980
+data row 416636: value=0.7869
+data row 854930: value=0.4044
+data row 615692: value=0.8160
+data row 948433: value=0.8873
+data row 337451: value=0.8285
+data row 637871: value=0.4301
+data row 926163: value=0.0732
+data row 287693: value=0.0313
+data row 178706: value=0.7335
+data row 977826: value=0.6496
+data row 339796: value=0.5394
+data row 575146: value=0.9225
+data row 420607: value=0.5899
+data row 534820: value=0.9839
+data row 843457: value=0.4479
+data row 494102: value=0.5654
+data row 955626: value=0.0566
+data row 68478: value=0.2621
+data row 152610: value=0.5132
+data row 556306: value=0.5924
+data row 598549: value=0.6807
+data row 942445: value=0.7868
+data row 992971: value=0.4453
+data row 678628: value=0.9906
+data row 274953: value=0.7233
+data row 211457: value=0.2801
+data row 385537: value=0.5852
+data row 258811: value=0.8405
+data row 882055: value=0.8031
+data row 999980: value=0.7797
+data row 565481: value=0.9165
+data row 347682: value=0.2081
+data row 687635: value=0.2737
+data row 981271: value=0.5277
+data row 411862: value=0.5787
+data row 284648: value=0.2167
+data row 490431: value=0.3849
+data row 701739: value=0.9767
+data row 376550: value=0.7264
+data row 660571: value=0.4772
+data row 226714: value=0.2932
+data row 100270: value=0.6324
+data row 380530: value=0.2884
+data row 304585: value=0.2186
+data row 257264: value=0.6712
+data row 51028: value=0.7327
+data row 809264: value=0.3712
+data row 795667: value=0.4342
+data row 805144: value=0.7247
+data row 896588: value=0.8797
+data row 259165: value=0.4869
+data row 223568: value=0.2890
+data row 413195: value=0.6912
+data row 814578: value=0.2888
+data row 949276: value=0.1344
+data row 593467: value=0.3168
+data row 920031: value=0.6421
+data row 803863: value=0.7729
+data row 478371: value=0.1198
+data row 796326: value=0.8183
+data row 634735: value=0.4904
+data row 452635: value=0.9908
+data row 690307: value=0.9696
+data row 371893: value=0.5662
+data row 956883: value=0.9254
+data row 851513: value=0.9806
+data row 135705: value=0.6024
+data row 11814: value=0.9026
+data row 45617: value=0.1505
+data row 564898: value=0.9212
+data row 487102: value=0.3258
+data row 757715: value=0.5267
+data row 681855: value=0.4363
+data row 639683: value=0.5549
+data row 660592: value=0.8306
+data row 459612: value=0.2852
+data row 496106: value=0.9674
+data row 749947: value=0.9139
+data row 400347: value=0.0499
+data row 992441: value=0.3449
+data row 668382: value=0.5270
+data row 869770: value=0.9031
+data row 135076: value=0.2303
+data row 381854: value=0.3380
+data row 168086: value=0.6237
+data row 842653: value=0.6917
+data row 301667: value=0.5485
+data row 554272: value=0.1889
+data row 254074: value=0.0878
+data row 532119: value=0.0619
+data row 642240: value=0.1263
+data row 947171: value=0.9543
+data row 968155: value=0.3228
+data row 853899: value=0.7447
+data row 702124: value=0.6624
+data row 822421: value=0.2581
+data row 688650: value=0.9529
+data row 746163: value=0.7412
+data row 385083: value=0.6017
+data row 338436: value=0.9064
+data row 262743: value=0.3755
+data row 328015: value=0.4995
+data row 816545: value=0.3281
+data row 320410: value=0.0521
+data row 90835: value=0.2697
+data row 718570: value=0.9607
+data row 431096: value=0.3108
+data row 248394: value=0.4460
+data row 607200: value=0.1240
+data row 923617: value=0.1260
+data row 87006: value=0.4443
+data row 440891: value=0.5410
+data row 403104: value=0.9635
+data row 868275: value=0.4184
+data row 580005: value=0.1458
+data row 63825: value=0.4604
+data row 579356: value=0.1606
+data row 162667: value=0.4468
+data row 120728: value=0.2460
+data row 252222: value=0.3693
+data row 14517: value=0.5788
+data row 77191: value=0.0924
+data row 253172: value=0.8593
+data row 841459: value=0.0544
+data row 394545: value=0.5033
+data row 259617: value=0.8974
+data row 977310: value=0.8378
+data row 631880: value=0.7138
+data row 893620: value=0.5794
+data row 300247: value=0.7275
+data row 643423: value=0.6708
+data row 662445: value=0.1618
+data row 324182: value=0.2186
+data row 256611: value=0.7217
+data row 958621: value=0.9282
+data row 463319: value=0.7264
+data row 197831: value=0.3080
+data row 761945: value=0.4960
+data row 797852: value=0.9737
+data row 525958: value=0.1404
+data row 211770: value=0.8609
+data row 519955: value=0.4303
+data row 749835: value=0.6380
+data row 788788: value=0.9515
+data row 777246: value=0.5637
+data row 24726: value=0.8408
+data row 569632: value=0.6824
+data row 591219: value=0.2814
+data row 149150: value=0.5028
+data row 168752: value=0.3139
+data row 935298: value=0.7401
+data row 666637: value=0.8088
+data row 473746: value=0.0544
+data row 905170: value=0.4147
+data row 687810: value=0.6034
+data row 753834: value=0.7052
+data row 526384: value=0.5549
+data row 257125: value=0.6548
+data row 458187: value=0.9585
+data row 352911: value=0.0767
+data row 406935: value=0.0229
+data row 389288: value=0.2945
+data row 638186: value=0.1232
+data row 816984: value=0.9650
+data row 23499: value=0.0881
+data row 51598: value=0.4628
+data row 234350: value=0.9777
+data row 62236: value=0.7005
+data row 297176: value=0.0453
+data row 257304: value=0.1168
+data row 802772: value=0.7250
+data row 57396: value=0.2906
+data row 775096: value=0.3540
+data row 418939: value=0.3522
+data row 740172: value=0.3574
+data row 145313: value=0.6518
+data row 250941: value=0.0363
+data row 416889: value=0.4940
+data row 687471: value=0.3438
+data row 572889: value=0.1140
+data row 85424: value=0.3734
+data row 254037: value=0.7977
+data row 955976: value=0.0611
+data row 755501: value=0.0894
+data row 540215: value=0.5974
+data row 506427: value=0.1437
+data row 903007: value=0.8261
+data row 561749: value=0.8566
+data row 853632: value=0.0578
+data row 952386: value=0.2416
+data row 645403: value=0.1827
+data row 565607: value=0.5092
+data row 45320: value=0.2578
+data row 459734: value=0.1115
+data row 985603: value=0.9092
+data row 558875: value=0.4195
+data row 49276: value=0.3815
+data row 156491: value=0.8838
+data row 167604: value=0.3261
+data row 463690: value=0.4480
+data row 785529: value=0.8946
+data row 473551: value=0.2035
+data row 378136: value=0.0374
+data row 334522: value=0.6018
+data row 782228: value=0.3525
+data row 574657: value=0.1332
+data row 922697: value=0.4250
+data row 617050: value=0.4615
+data row 687982: value=0.0183
+data row 406971: value=0.1959
+data row 170684: value=0.3692
+data row 275901: value=0.7875
+data row 32605: value=0.2713
+data row 310286: value=0.5652
+data row 574609: value=0.8675
+data row 987792: value=0.9999
+data row 654182: value=0.8304
+data row 396099: value=0.6955
+data row 949769: value=0.4388
+data row 185071: value=0.7990
+data row 538590: value=0.5633
+data row 571792: value=0.7931
+data row 142832: value=0.8499
+data row 754632: value=0.6527
+data row 345222: value=0.2039
+data row 618700: value=0.3093
+data row 174030: value=0.2318
+data row 616128: value=0.8381
+data row 962876: value=0.8270
+data row 463571: value=0.1720
+data row 715077: value=0.0977
+data row 586303: value=0.8968
+data row 609032: value=0.6784
+data row 269348: value=0.8988
+data row 209280: value=0.7598
+data row 537674: value=0.5385
+data row 742005: value=0.9723
+data row 340508: value=0.1970
+data row 401141: value=0.0795
+data row 751012: value=0.0834
+data row 696151: value=0.3624
+data row 992424: value=0.3314
+data row 986942: value=0.2319
+data row 500098: value=0.8134
+data row 949528: value=0.7930
+data row 386801: value=0.5684
+data row 645486: value=0.3620
+data row 839189: value=0.4523
+data row 78068: value=0.2702
+data row 115165: value=0.7841
+data row 906271: value=0.8536
+data row 448524: value=0.9348
+data row 916476: value=0.8512
+data row 264703: value=0.6153
+data row 915687: value=0.1267
+data row 578261: value=0.4610
+data row 35843: value=0.6026
+data row 916826: value=0.6185
+data row 625495: value=0.0583
+data row 225161: value=0.5378
+data row 55666: value=0.8406
+data row 503328: value=0.4568
+data row 911622: value=0.8369
+data row 454036: value=0.4882
+data row 23209: value=0.4124
+data row 585503: value=0.5386
+data row 297403: value=0.5158
+data row 131942: value=0.2640
+data row 317645: value=0.1580
+data row 505961: value=0.7646
+data row 610210: value=0.0075
+data row 844966: value=0.9354
+data row 253251: value=0.1817
+data row 737800: value=0.3267
+data row 25105: value=0.0112
+data row 532115: value=0.0147
+data row 900788: value=0.6031
+data row 444119: value=0.5559
+data row 97398: value=0.2482
+data row 149860: value=0.7548
+data row 663667: value=0.5667
+data row 889273: value=0.1155
+data row 913571: value=0.8069
+data row 583849: value=0.2230
+data row 708455: value=0.5064
+data row 958631: value=0.3282
+data row 858231: value=0.3674
+data row 294026: value=0.2792
+data row 323140: value=0.8960
+data row 351446: value=0.9611
+data row 709701: value=0.6760
+data row 522480: value=0.7473
+data row 512392: value=0.6163
+data row 476379: value=0.9394
+data row 800436: value=0.1507
+data row 727042: value=0.4498
+data row 776734: value=0.8824
+data row 535489: value=0.4150
+data row 872211: value=0.3095
+data row 920043: value=0.5543
+data row 396653: value=0.5230
+data row 775916: value=0.1267
+data row 18033: value=0.0629
+data row 57709: value=0.3532
+data row 727459: value=0.9354
+data row 359922: value=0.0350
+data row 42072: value=0.3723
+data row 489824: value=0.3185
+data row 168199: value=0.7997
+data row 190803: value=0.1505
+data row 527502: value=0.8145
+data row 363989: value=0.6659
+data row 263044: value=0.4874
+data row 783384: value=0.9018
+data row 276423: value=0.3726
+data row 335809: value=0.0220
+data row 287890: value=0.5942
+data row 366876: value=0.8231
+data row 332352: value=0.9075
+data row 93367: value=0.3359
+data row 375252: value=0.6904
+data row 706065: value=0.9841
+data row 573803: value=0.9023
+data row 51384: value=0.9859
+data row 894519: value=0.3352
+data row 244657: value=0.9605
+data row 38899: value=0.9775
+data row 501027: value=0.0045
+data row 380902: value=0.3329
+data row 160488: value=0.6787
+data row 326098: value=0.2406
+data row 107408: value=0.0060
+data row 606229: value=0.3644
+data row 279478: value=0.9185
+data row 404721: value=0.4662
+data row 491052: value=0.9178
+data row 267865: value=0.0498
+data row 554094: value=0.5416
+data row 74621: value=0.0497
+data row 875050: value=0.1021
+data row 206711: value=0.4890
+data row 581967: value=0.1594
+data row 765147: value=0.0984
+data row 738404: value=0.4627
+data row 633778: value=0.9325
+data row 332010: value=0.8220
+data row 380531: value=0.4271
+data row 610178: value=0.3783
+data row 605723: value=0.8345
+data row 472170: value=0.7360
+data row 84546: value=0.3424
+data row 29617: value=0.8353
+data row 534319: value=0.5232
+data row 595593: value=0.4835
+data row 187263: value=0.4623
+data row 58900: value=0.1335
+data row 746169: value=0.1942
+data row 807712: value=0.4576
+data row 802083: value=0.6060
+data row 362806: value=0.1496
+data row 61218: value=0.5808
+data row 83511: value=0.3017
+data row 897117: value=0.4763
+data row 446817: value=0.8076
+data row 258486: value=0.1310
+data row 957261: value=0.0338
+data row 58336: value=0.1205
+data row 294564: value=0.9621
+data row 572810: value=0.7747
+data row 196196: value=0.5761
+data row 60888: value=0.5953
+data row 243470: value=0.5375
+data row 656162: value=0.9335
+data row 235881: value=0.7613
+data row 352777: value=0.6001
+data row 344672: value=0.6363
+data row 168571: value=0.9812
+data row 814609: value=0.4320
+data row 718604: value=0.3482
+data row 426009: value=0.8925
+data row 347932: value=0.7421
+data row 740412: value=0.3461
+data row 205247: value=0.4929
+data row 912282: value=0.4237
+data row 651644: value=0.9181
+data row 901553: value=0.9959
+data row 768147: value=0.5524
+data row 870009: value=0.1433
+data row 968575: value=0.7722
+data row 64523: value=0.8551
+data row 459701: value=0.9995
+data row 865805: value=0.4435
+data row 169041: value=0.8727
+data row 290929: value=0.6678
+data row 748134: value=0.3456
+data row 638652: value=0.4200
+data row 716205: value=0.1400
+data row 599905: value=0.1407
+data row 22171: value=0.6890
+data row 49926: value=0.1235
+data row 147591: value=0.1516
+data row 447982: value=0.9187
+data row 894374: value=0.2650
+data row 191218: value=0.9384
+data row 988854: value=0.9377
+data row 279833: value=0.6643
+data row 816932: value=0.6802
+data row 343758: value=0.4672
+data row 547052: value=0.3539
+data row 667109: value=0.7365
+data row 454660: value=0.1870
+data row 10088: value=0.0832
+data row 87543: value=0.6789
+data row 867045: value=0.5607
+data row 838919: value=0.1962
+data row 429509: value=0.5285
+data row 701348: value=0.0305
+data row 672515: value=0.7860
+data row 49751: value=0.4306
+data row 878124: value=0.9496
+data row 689908: value=0.0584
+data row 723109: value=0.1867
+data row 235297: value=0.9562
+data row 328595: value=0.5869
+data row 941709: value=0.2367
+data row 995790: value=0.4639
+data row 184607: value=0.4641
+data row 352854: value=0.5837
+data row 528234: value=0.4889
+data row 182366: value=0.5408
+data row 993210: value=0.0906
+data row 56852: value=0.3766
+data row 355450: value=0.1319
+data row 463166: value=0.1796
+data row 472147: value=0.9301
+data row 867784: value=0.7989
+data row 243752: value=0.2212
+data row 701860: value=0.8326
+data row 891322: value=0.4510
+data row 570232: value=0.8821
+data row 968800: value=0.5906
+data row 235872: value=0.9962
+data row 248353: value=0.1606
+data row 763472: value=0.5587
+data row 240952: value=0.6271
+data row 191419: value=0.1254
+data row 252363: value=0.4155
+data row 375215: value=0.8948
+data row 678172: value=0.0580
+data row 271908: value=0.2438
+data row 889277: value=0.4950
+data row 183036: value=0.3949
+data row 192025: value=0.0376
+data row 661086: value=0.8370
+data row 981659: value=0.7912
+data row 617497: value=0.3560
+data row 980563: value=0.9538
+data row 167841: value=0.2030
+data row 682211: value=0.8250
+data row 726631: value=0.4100
+data row 277006: value=0.4161
+data row 826831: value=0.1657
+data row 980319: value=0.5016
+data row 746357: value=0.8451
+data row 161181: value=0.0457
+data row 789681: value=0.4568
+data row 89262: value=0.1571
+data row 835613: value=0.2857
+data row 630141: value=0.0634
+data row 182497: value=0.6226
+data row 889480: value=0.3747
+data row 583796: value=0.5664
+data row 649073: value=0.9858
+data row 285925: value=0.3754
+data row 229663: value=0.3725
+data row 905079: value=0.6736
+data row 568215: value=0.9032
+data row 959074: value=0.4353
+data row 734235: value=0.3972
+data row 458001: value=0.0926
+data row 590016: value=0.8553
+data row 412453: value=0.9639
+data row 977139: value=0.5780
+data row 365057: value=0.3622
+data row 978921: value=0.5011
+data row 550958: value=0.8959
+data row 320826: value=0.8310
+data row 788900: value=0.5836
+data row 259560: value=0.8944
+data row 743678: value=0.5581
+data row 575661: value=0.5441
+data row 12892: value=0.7897
+data row 627556: value=0.2957
+data row 835719: value=0.8191
+data row 580270: value=0.2488
+data row 640559: value=0.3840
+data row 427961: value=0.8658
+data row 714868: value=0.7991
+data row 723499: value=0.0219
+data row 957241: value=0.5710
+data row 72642: value=0.1708
+data row 23731: value=0.0425
+data row 230031: value=0.6189
+data row 244993: value=0.9785
+data row 895247: value=0.2823
+data row 686666: value=0.4380
+data row 732132: value=0.9375
+data row 878646: value=0.2455
+data row 379386: value=0.6349
+data row 881674: value=0.4896
+data row 154644: value=0.3711
+data row 247104: value=0.8737
+data row 797240: value=0.9531
+data row 67622: value=0.3127
+data row 368166: value=0.7609
+data row 672728: value=0.2542
+data row 409898: value=0.8084
+data row 396554: value=0.4611
+data row 642514: value=0.3209
+data row 890258: value=0.6317
+data row 858568: value=0.0447
+data row 852293: value=0.3175
+data row 442072: value=0.8051
+data row 586359: value=0.8348
+data row 448955: value=0.0775
+data row 639641: value=0.6729
+data row 775335: value=0.3575
+data row 179051: value=0.1498
+data row 19170: value=0.4934
+data row 931945: value=0.9101
+data row 518505: value=0.4963
+data row 531602: value=0.0152
+data row 246387: value=0.8282
+data row 399572: value=0.1343
+data row 871852: value=0.4155
+data row 121950: value=0.6563
+data row 367676: value=0.0975
+data row 761384: value=0.8172
+data row 395071: value=0.1705
+data row 708872: value=0.4597
+data row 968963: value=0.1222
+data row 818690: value=0.7038
+data row 598883: value=0.9536
+data row 384961: value=0.4257
+data row 423026: value=0.3014
+data row 733030: value=0.7914
+data row 243579: value=0.1651
+data row 194781: value=0.7466
+data row 224747: value=0.9714
+data row 149058: value=0.3960
+data row 247438: value=0.6700
+data row 617378: value=0.9221
+data row 162240: value=0.0416
+data row 863263: value=0.1616
+data row 525891: value=0.5601
+data row 90567: value=0.2270
+data row 636404: value=0.7155
+data row 572351: value=0.2519
+data row 453160: value=0.8768
+data row 528450: value=0.7187
+data row 501369: value=0.1432
+data row 167293: value=0.4340
+data row 343309: value=0.9471
+data row 290928: value=0.6975
+data row 760338: value=0.5747
+data row 790550: value=0.2081
+data row 34190: value=0.9028
+data row 928901: value=0.6348
+data row 445693: value=0.5704
+data row 886824: value=0.9776
+data row 790678: value=0.3260
+data row 178561: value=0.5713
+data row 831294: value=0.1629
+data row 34806: value=0.8708
+data row 429364: value=0.5163
+data row 814145: value=0.3811
+data row 466915: value=0.4650
+data row 997788: value=0.3224
+data row 157430: value=0.4792
+data row 102202: value=0.0375
+data row 958869: value=0.3714
+data row 345277: value=0.6010
+data row 144774: value=0.0732
+data row 532198: value=0.4569
+data row 382046: value=0.3152
+data row 950599: value=0.4059
+data row 827529: value=0.8146
+data row 289547: value=0.9757
+data row 382401: value=0.1907
+data row 91289: value=0.0773
+data row 813242: value=0.7322
+data row 924094: value=0.0658
+data row 787626: value=0.7273
+data row 825413: value=0.6807
+data row 976285: value=0.4097
+data row 693647: value=0.0537
+data row 226364: value=0.9643
+data row 68259: value=0.5436
+data row 633850: value=0.3482
+data row 539059: value=0.3954
+data row 523884: value=0.1980
+data row 612993: value=0.0142
+data row 279919: value=0.8125
+data row 480009: value=0.4644
+data row 430578: value=0.1973
+data row 926816: value=0.9040
+data row 23416: value=0.6893
+data row 805357: value=0.2441
+data row 972904: value=0.3216
+data row 255656: value=0.0321
+data row 999590: value=0.5960
+data row 734601: value=0.3301
+data row 994522: value=0.0727
+data row 365180: value=0.8358
+data row 619730: value=0.8054
+data row 600559: value=0.5176
+data row 552127: value=0.4598
+data row 507131: value=0.6646
+data row 895409: value=0.9292
+data row 979623: value=0.3627
+data row 839951: value=0.2061
+data row 34257: value=0.7913
+data row 372897: value=0.7254
+data row 496511: value=0.6873
+data row 844406: value=0.6179
+data row 846822: value=0.1229
+data row 928024: value=0.8074
+data row 148432: value=0.6801
+data row 625719: value=0.6567
+data row 669205: value=0.3961
+data row 393053: value=0.0400
+data row 950125: value=0.7684
+data row 56173: value=0.3773
+data row 499745: value=0.6447
+data row 97953: value=0.8681
+data row 442031: value=0.7972
+data row 824669: value=0.7007
+data row 992938: value=0.1103
+data row 474434: value=0.6486
+data row 897733: value=0.2290
+data row 202596: value=0.9580
+data row 380510: value=0.8505
+data row 892225: value=0.6649
+data row 199088: value=0.8897
+data row 382092: value=0.8807
+data row 109356: value=0.0355
+data row 339269: value=0.7529
+data row 659714: value=0.2229
+data row 706360: value=0.8619
+data row 27535: value=0.4603
+data row 424873: value=0.0966
+data row 81693: value=0.5457
+data row 596296: value=0.9613
+data row 367655: value=0.2640
+data row 369373: value=0.7701
+data row 11632: value=0.5293
+data row 514574: value=0.9382
+data row 138480: value=0.5232
+data row 919753: value=0.5890
+data row 813921: value=0.9384
+data row 220240: value=0.0613
+data row 171626: value=0.5602
+data row 199453: value=0.5025
+data row 138501: value=0.7749
+data row 211155: value=0.4298
+data row 76533: value=0.5416
+data row 195799: value=0.3325
+data row 354414: value=0.4762
+data row 144610: value=0.5913
+data row 129211: value=0.5619
+data row 366610: value=0.2010
+data row 134228: value=0.6729
+data row 909811: value=0.2493
+data row 595465: value=0.3812
+data row 909438: value=0.3736
+data row 921557: value=0.6559
+data row 779165: value=0.2621
+data row 339094: value=0.7114
+data row 811563: value=0.8553
+data row 909293: value=0.0280
+data row 340293: value=0.5204
+data row 177306: value=0.5766
+data row 428188: value=0.6186
+data row 889325: value=0.1646
+data row 121270: value=0.6582
+data row 243121: value=0.8690
+data row 48988: value=0.8978
+data row 507317: value=0.7384
+data row 882506: value=0.1077
+data row 960483: value=0.7933
+data row 245357: value=0.2492
+data row 437626: value=0.1912
+data row 432703: value=0.3744
+data row 145663: value=0.4166
+data row 30776: value=0.2995
+data row 907828: value=0.7632
+data row 284298: value=0.1373
+data row 846682: value=0.6332
+data row 371649: value=0.3935
+data row 667851: value=0.8335
+data row 31489: value=0.6059
+data row 159357: value=0.7512
+data row 264764: value=0.9185
+data row 370719: value=0.1998
+data row 779735: value=0.7594
+data row 827060: value=0.1072
+data row 501526: value=0.0566
+data row 212964: value=0.4576
+data row 103457: value=0.8235
+data row 984871: value=0.4411
+data row 791141: value=0.5570
+data row 749846: value=0.0433
+data row 838066: value=0.2180
+data row 413259: value=0.7728
+data row 555155: value=0.9832
+data row 940609: value=0.0594
+data row 723673: value=0.5634
+data row 163010: value=0.0884
+data row 274998: value=0.4055
+data row 27256: value=0.2290
+data row 810481: value=0.8187
+data row 80208: value=0.9346
+data row 955659: value=0.3826
+data row 354819: value=0.8809
+data row 499908: value=0.8006
+data row 942249: value=0.0744
+data row 428407: value=0.3130
+data row 669325: value=0.0465
+data row 648823: value=0.7911
+data row 997297: value=0.0128
+data row 535085: value=0.5595
+data row 865795: value=0.4763
+data row 134223: value=0.2958
+data row 652583: value=0.1566
+data row 942278: value=0.8700
+data row 432867: value=0.4557
+data row 695597: value=0.2663
+data row 539545: value=0.9154
+data row 913160: value=0.0345
+data row 282913: value=0.0008
+data row 773366: value=0.8610
+data row 724538: value=0.2249
+data row 584777: value=0.0184
+data row 61352: value=0.8648
+data row 270694: value=0.6970
+data row 609452: value=0.1964
+data row 605956: value=0.9644
+data row 636543: value=0.2288
+data row 946441: value=0.8430
+data row 608140: value=0.6216
+data row 89918: value=0.6079
+data row 221821: value=0.8598
+data row 674416: value=0.7093
+data row 260421: value=0.0796
+data row 94234: value=0.8703
+data row 846578: value=0.5092
+data row 465312: value=0.7476
+data row 386497: value=0.5352
+data row 958322: value=0.0029
+data row 42867: value=0.9715
+data row 270302: value=0.7399
+data row 927273: value=0.1976
+data row 360048: value=0.7739
+data row 129933: value=0.4364
+data row 80311: value=0.2195
+data row 725051: value=0.8379
+data row 518413: value=0.5388
+data row 50531: value=0.3528
+data row 575234: value=0.1414
+data row 309583: value=0.4266
+data row 919223: value=0.8208
+data row 613551: value=0.4989
+data row 297826: value=0.6622
+data row 66753: value=0.3669
+data row 773386: value=0.7782
+data row 48815: value=0.3883
+data row 91662: value=0.8471
+data row 223850: value=0.3123
+data row 77468: value=0.2265
+data row 764446: value=0.3927
+data row 417273: value=0.2780
+data row 695450: value=0.4855
+data row 153774: value=0.0744
+data row 944155: value=0.0853
+data row 599519: value=0.9286
+data row 308483: value=0.7949
+data row 595747: value=0.5550
+data row 588794: value=0.5536
+data row 64831: value=0.2071
+data row 182115: value=0.8889
+data row 527251: value=0.5514
+data row 687647: value=0.7489
+data row 222780: value=0.6064
+data row 27261: value=0.4373
+data row 646072: value=0.2528
+data row 662842: value=0.6610
+data row 637330: value=0.6490
+data row 179369: value=0.2575
+data row 844946: value=0.4434
+data row 144576: value=0.9911
+data row 875826: value=0.1793
+data row 372438: value=0.8367
+data row 621521: value=0.5079
+data row 871101: value=0.3991
+data row 884352: value=0.9008
+data row 878906: value=0.9690
+data row 704421: value=0.8358
+data row 539171: value=0.7663
+data row 352849: value=0.2256
+data row 870896: value=0.0896
+data row 700655: value=0.1503
+data row 731861: value=0.0648
+data row 528998: value=0.5290
+data row 851229: value=0.9003
+data row 607180: value=0.7144
+data row 973788: value=0.6692
+data row 337219: value=0.5221
+data row 595411: value=0.6966
+data row 742676: value=0.8470
+data row 788124: value=0.0912
+data row 128971: value=0.2761
+data row 902983: value=0.1450
+data row 642376: value=0.7412
+data row 864827: value=0.1940
+data row 305748: value=0.5699
+data row 386305: value=0.0374
+data row 214941: value=0.0141
+data row 717364: value=0.1927
+data row 810725: value=0.5762
+data row 201331: value=0.3236
+data row 231114: value=0.5182
+data row 205726: value=0.0228
+data row 233834: value=0.0826
+data row 507854: value=0.8186
+data row 150894: value=0.6467
+data row 133154: value=0.0852
+data row 938872: value=0.2837
+data row 377153: value=0.7207
+data row 413139: value=0.7757
+data row 770329: value=0.5878
+data row 301503: value=0.4300
+data row 828457: value=0.6844
+data row 74810: value=0.9398
+data row 287345: value=0.1840
+data row 281673: value=0.3160
+data row 722301: value=0.9569
+data row 564141: value=0.7679
+data row 617378: value=0.4520
+data row 260086: value=0.5850
+data row 508868: value=0.1801
+data row 883857: value=0.6595
+data row 154391: value=0.0805
+data row 878419: value=0.3936
+data row 104495: value=0.2590
+data row 310158: value=0.8723
+data row 275418: value=0.8715
+data row 452461: value=0.5595
+data row 37821: value=0.7996
+data row 733664: value=0.4988
+data row 364555: value=0.8801
+data row 296146: value=0.5057
+data row 738962: value=0.8319
+data row 346766: value=0.2177
+data row 148835: value=0.4185
+data row 987113: value=0.6314
+data row 582602: value=0.7973
+data row 634967: value=0.6172
+data row 888735: value=0.0829
+data row 51633: value=0.7258
+data row 499679: value=0.6773
+data row 478460: value=0.9874
+data row 18423: value=0.6535
+data row 659137: value=0.4369
+data row 420668: value=0.4609
+data row 730917: value=0.7860
+data row 490309: value=0.4434
+data row 919620: value=0.6637
+data row 673512: value=0.9492
+data row 607096: value=0.7139
+data row 73607: value=0.0738
+data row 956573: value=0.0536
+data row 831565: value=0.1454
+data row 748102: value=0.9618
+data row 484256: value=0.0639
+data row 658983: value=0.9294
+data row 680429: value=0.5998
+data row 914343: value=0.1781
+data row 496545: value=0.8793
+data row 614927: value=0.7621
+data row 617865: value=0.8790
+data row 940412: value=0.6341
+data row 52958: value=0.0634
+data row 134906: value=0.2256
+data row 727402: value=0.1775
+data row 429824: value=0.1806
+data row 953029: value=0.0882
+data row 813514: value=0.6083
+data row 145536: value=0.9672
+data row 148086: value=0.0284
+data row 990953: value=0.2717
+data row 404593: value=0.0932
+data row 749628: value=0.6679
+data row 916314: value=0.5553
+data row 612737: value=0.5114
+data row 33657: value=0.6156
+data row 662743: value=0.4545
+data row 385837: value=0.2164
+data row 890852: value=0.1508
+data row 55554: value=0.3944
+data row 792313: value=0.9011
+data row 86656: value=0.2904
+data row 966925: value=0.7374
+data row 905318: value=0.1662
+data row 787420: value=0.3933
+data row 341273: value=0.8935
+data row 209341: value=0.1520
+data row 837774: value=0.3677
+data row 407719: value=0.8976
+data row 75981: value=0.1490
+data row 416786: value=0.3648
+data row 276288: value=0.3438
+data row 609182: value=0.4692
+data row 838659: value=0.3529
+data row 731343: value=0.4270
+data row 755392: value=0.0985
+data row 44232: value=0.1128
+data row 679863: value=0.2561
+data row 807539: value=0.8493
+data row 858707: value=0.9600
+data row 487741: value=0.4336
+data row 570798: value=0.4992
+data row 601300: value=0.3364
+data row 828125: value=0.5154
+data row 136313: value=0.0905
+data row 753143: value=0.4124
+data row 576220: value=0.4638
+data row 255832: value=0.7574
+data row 687841: value=0.1712
+data row 806583: value=0.4914
+data row 363829: value=0.6448
+data row 167661: value=0.3210
+data row 427479: value=0.6099
+data row 334666: value=0.6745
+data row 217829: value=0.9968
+data row 476156: value=0.1661
+data row 309225: value=0.4721
+data row 163528: value=0.8450
+data row 872710: value=0.0674
+data row 292033: value=0.3559
+data row 222487: value=0.4365
+data row 904132: value=0.1723
+data row 696312: value=0.4284
+data row 768000: value=0.4542
+data row 865842: value=0.4812
+data row 893460: value=0.1029
+data row 21509: value=0.4241
+data row 662826: value=0.6905
+data row 758452: value=0.1700
+data row 262759: value=0.4902
+data row 692875: value=0.3351
+data row 580547: value=0.4514
+data row 484661: value=0.5645
+data row 368092: value=0.4489
+data row 512826: value=0.0916
+data row 398866: value=0.0853
+data row 210910: value=0.1689
+data row 486041: value=0.5993
+data row 615897: value=0.8198
+data row 328514: value=0.0653
+data row 963355: value=0.2094
+data row 229839: value=0.0063
+data row 109638: value=0.4679
+data row 607999: value=0.0435
+data row 899530: value=0.0113
+data row 800746: value=0.8321
+data row 593410: value=0.7062
+data row 534641: value=0.0146
+data row 74626: value=0.9869
+data row 816993: value=0.1074
+data row 241218: value=0.1883
+data row 187448: value=0.4746
+data row 773391: value=0.9763
+data row 389021: value=0.1265
+data row 689627: value=0.7586
+data row 415531: value=0.2524
+data row 622238: value=0.1210
+data row 664883: value=0.2198
+data row 316473: value=0.1543
+data row 27276: value=0.2458
+data row 179238: value=0.1065
+data row 745336: value=0.2960
+data row 289554: value=0.6920
+data row 143069: value=0.2350
+data row 121678: value=0.7522
+data row 907759: value=0.5588
+data row 430670: value=0.6404
+data row 956899: value=0.8609
+data row 615834: value=0.6601
+data row 584264: value=0.3066
+data row 490268: value=0.6934
+data row 269044: value=0.2406
+data row 614941: value=0.5305
+data row 241085: value=0.5521
+data row 609322: value=0.7804
+data row 946031: value=0.1157
+data row 963217: value=0.9347
+data row 767080: value=0.8043
+data row 591645: value=0.9473
+data row 658310: value=0.5919
+data row 212429: value=0.9372
+data row 967617: value=0.2590
+data row 215122: value=0.0942
+data row 480035: value=0.5990
+data row 639544: value=0.9683
+data row 681448: value=0.4848
+data row 526617: value=0.1042
+data row 634833: value=0.7087
+data row 105858: value=0.2681
+data row 756439: value=0.2482
+data row 947031: value=0.6304
+data row 580482: value=0.7750
+data row 787601: value=0.6733
+data row 97018: value=0.8982
+data row 580058: value=0.0501
+data row 787249: value=0.8599
+data row 907133: value=0.3154
+data row 61827: value=0.0829
+data row 602197: value=0.2561
+data row 153837: value=0.0632
+data row 785960: value=0.1950
+data row 442901: value=0.6028
+data row 999574: value=0.3451
+data row 668358: value=0.1154
+data row 164304: value=0.8274
+data row 631834: value=0.4650
+data row 831032: value=0.7984
+data row 867349: value=0.1775
+data row 254202: value=0.4546
+data row 350398: value=0.1592
+data row 839339: value=0.6682
+data row 927596: value=0.1430
+data row 668016: value=0.3976
+data row 590988: value=0.8634
+data row 161727: value=0.1948
+data row 908676: value=0.0974
+data row 657437: value=0.1947
+data row 749091: value=0.2480
+data row 484210: value=0.5177
+data row 143800: value=0.1150
+data row 111674: value=0.0157
+data row 129941: value=0.8342
+data row 933727: value=0.3336
+data row 889703: value=0.3829
+data row 330319: value=0.3020
+data row 970278: value=0.2187
+data row 626908: value=0.0563
+data row 462591: value=0.9885
+data row 116401: value=0.8653
+data row 399407: value=0.8067
+data row 402550: value=0.3584
+data row 515564: value=0.0819
+data row 474369: value=0.2095
+data row 637356: value=0.2355
+data row 822494: value=0.5868
+data row 598357: value=0.6382
+data row 145281: value=0.3910
+data row 236170: value=0.9886
+data row 566369: value=0.4865
+data row 502179: value=0.5695
+data row 505932: value=0.1463
+data row 768599: value=0.6156
+data row 420022: value=0.8752
+data row 653412: value=0.4276
+data row 172607: value=0.3026
+data row 744589: value=0.0696
+data row 782960: value=0.8398
+data row 36830: value=0.9096
+data row 46832: value=0.7559
+data row 908088: value=0.9427
+data row 318086: value=0.2747
+data row 296120: value=0.4176
+data row 299787: value=0.2853
+data row 502921: value=0.1284
+data row 984993: value=0.7438
+data row 100059: value=0.2658
+data row 966713: value=0.2835
+data row 947706: value=0.0378
+data row 959391: value=0.5228
+data row 539072: value=0.5188
+data row 114304: value=0.0809
+data row 957430: value=0.7370
+data row 222318: value=0.9260
+data row 698699: value=0.2483
+data row 383833: value=0.1637
+data row 886342: value=0.9117
+data row 948519: value=0.7877
+data row 734239: value=0.0078
+data row 701828: value=0.9823
+data row 800599: value=0.5671
+data row 516277: value=0.2908
+data row 23027: value=0.4350
+data row 404109: value=0.9460
+data row 744939: value=0.8290
+data row 667187: value=0.5080
+data row 497577: value=0.1390
+data row 235851: value=0.7383
+data row 602366: value=0.4326
+data row 172482: value=0.4491
+data row 238705: value=0.8906
+data row 668512: value=0.4223
+data row 383745: value=0.7687
+data row 134109: value=0.5359
+data row 327581: value=0.0956
+data row 474452: value=0.9662
+data row 851941: value=0.2190
+data row 299719: value=0.5004
+data row 926004: value=0.2198
+data row 922520: value=0.1567
+data row 49086: value=0.9065
+data row 922583: value=0.2479
+data row 612150: value=0.0728
+data row 915646: value=0.3747
+data row 633105: value=0.1928
+data row 146412: value=0.7442
+data row 880323: value=0.7602
+data row 915598: value=0.0455
+data row 911913: value=0.1728
+data row 148513: value=0.1942
+data row 979347: value=0.3736
+data row 291192: value=0.3955
+data row 476465: value=0.8634
+data row 635668: value=0.3584
+data row 709352: value=0.7229
+data row 666344: value=0.2796
+data row 363930: value=0.7512
+data row 755325: value=0.0020
+data row 822793: value=0.6539
+data row 556883: value=0.1691
+data row 940270: value=0.5401
+data row 307129: value=0.8180
+data row 571193: value=0.0453
+data row 554843: value=0.7639
+data row 269445: value=0.0279
+data row 336646: value=0.1652
+data row 709038: value=0.4129
+data row 567927: value=0.6877
+data row 461627: value=0.4490
+data row 43171: value=0.3824
+data row 384653: value=0.7868
+data row 25848: value=0.3936
+data row 571064: value=0.9323
+data row 993133: value=0.5409
+data row 695773: value=0.8095
+data row 959443: value=0.5290
+data row 904845: value=0.3513
+data row 862864: value=0.9956
+data row 899639: value=0.0341
+data row 288050: value=0.1219
+data row 248742: value=0.7807
+data row 44573: value=0.5286
+data row 903715: value=0.7599
+data row 298420: value=0.0098
+data row 150719: value=0.0924
+data row 656181: value=0.9054
+data row 945902: value=0.2619
+data row 917990: value=0.8927
+data row 735542: value=0.2800
+data row 538655: value=0.7893
+data row 51228: value=0.2468
+data row 781792: value=0.2262
+data row 677749: value=0.6887
+data row 774868: value=0.0311
+data row 829086: value=0.3343
+data row 109711: value=0.7942
+data row 28702: value=0.4861
+data row 966217: value=0.8560
+data row 217612: value=0.3964
+data row 55625: value=0.3284
+data row 681171: value=0.9185
+data row 982940: value=0.9156
+data row 876299: value=0.2689
+data row 299333: value=0.8217
+data row 320923: value=0.5835
+data row 687604: value=0.5812
+data row 78533: value=0.1350
+data row 377739: value=0.9615
+data row 78453: value=0.4932
+data row 242080: value=0.9175
+data row 233388: value=0.8108
+data row 747963: value=0.2022
+data row 579962: value=0.4598
+data row 564626: value=0.1251
+data row 743187: value=0.5086
+data row 79278: value=0.0438
+data row 730285: value=0.3120
+data row 483139: value=0.6546
+data row 468828: value=0.6431
+data row 137639: value=0.3073
+data row 754203: value=0.0053
+data row 603918: value=0.2758
+data row 508137: value=0.5084
+data row 114731: value=0.4870
+data row 115938: value=0.9652
+data row 593149: value=0.7141
+data row 778890: value=0.2626
+data row 646362: value=0.9089
+data row 573820: value=0.5998
+data row 707706: value=0.5449
+data row 958656: value=0.5237
+data row 210478: value=0.9324
+data row 609814: value=0.4344
+data row 37243: value=0.0874
+data row 265258: value=0.9454
+data row 862626: value=0.9817
+data row 586691: value=0.4599
+data row 879045: value=0.1004
+data row 65458: value=0.3009
+data row 214029: value=0.7805
+data row 26144: value=0.7865
+data row 306898: value=0.4648
+data row 586760: value=0.4285
+data row 490816: value=0.0315
+data row 439332: value=0.4678
+data row 644204: value=0.7741
+data row 931056: value=0.7663
+data row 659603: value=0.3426
+data row 483473: value=0.6297
+data row 864571: value=0.9294
+data row 210274: value=0.3364
+data row 325323: value=0.8687
+data row 251827: value=0.0083
+data row 425738: value=0.0200
+data row 211150: value=0.3490
+data row 525558: value=0.5918
+data row 616592: value=0.8288
+data row 933327: value=0.5347
+data row 971980: value=0.3520
+data row 18880: value=0.9438
+data row 25099: value=0.8715
+data row 194870: value=0.8255
+data row 424039: value=0.8031
+data row 687023: value=0.3585
+data row 793047: value=0.5127
+data row 487983: value=0.3722
+data row 309296: value=0.6268
+data row 691357: value=0.7652
+data row 992444: value=0.3581
+data row 117135: value=0.8683
+data row 462094: value=0.5905
+data row 436778: value=0.1081
+data row 238465: value=0.7337
+data row 24755: value=0.0389
+data row 186643: value=0.4978
+data row 919950: value=0.8834
+data row 768374: value=0.0701
+data row 974401: value=0.2220
+data row 455299: value=0.5046
+data row 432993: value=0.6438
+data row 16588: value=0.3926
+data row 430552: value=0.5604
+data row 115576: value=0.8546
+data row 651957: value=0.7200
+data row 515381: value=0.5588
+data row 136791: value=0.7689
+data row 386913: value=0.4446
+data row 839716: value=0.4799
+data row 170981: value=0.4384
+data row 479195: value=0.1957
+data row 606299: value=0.8782
+data row 932013: value=0.0696
+data row 355081: value=0.5875
+data row 295675: value=0.0427
+data row 184917: value=0.6899
+data row 124327: value=0.6768
+data row 190248: value=0.2118
+data row 115174: value=0.4715
+data row 769834: value=0.1654
+data row 264243: value=0.1427
+data row 989797: value=0.1890
+data row 366671: value=0.0139
+data row 692289: value=0.6218
+data row 690825: value=0.9622
+data row 355343: value=0.5037
+data row 169629: value=0.7026
+data row 166902: value=0.9535
+data row 37614: value=0.1316
+data row 236628: value=0.9037
+data row 499366: value=0.8700
+data row 300693: value=0.3334
+data row 644611: value=0.1676
+data row 801213: value=0.1943
+data row 769126: value=0.5843
+data row 773908: value=0.0178
+data row 658944: value=0.5556
+data row 709659: value=0.5917
+data row 950361: value=0.4680
+data row 633858: value=0.6612
+data row 403894: value=0.6386
+data row 465399: value=0.6367
+data row 921712: value=0.8257
+data row 65524: value=0.0062
+data row 217683: value=0.5382
+data row 141928: value=0.8581
+data row 346450: value=0.0530
+data row 164684: value=0.3885
+data row 693388: value=0.4836
+data row 543439: value=0.5042
+data row 122744: value=0.9974
+data row 808633: value=0.2636
+data row 581261: value=0.1141
+data row 331882: value=0.7921
+data row 277647: value=0.4092
+data row 88211: value=0.9617
+data row 129673: value=0.1449
+data row 533913: value=0.1897
+data row 28246: value=0.1811
+data row 551567: value=0.9215
+data row 471614: value=0.6899
+data row 521677: value=0.1046
+data row 147703: value=0.8387
+data row 242337: value=0.4656
+data row 446776: value=0.3920
+data row 725720: value=0.2861
+data row 674177: value=0.0141
+data row 121740: value=0.3161
+data row 191786: value=0.8539
+data row 686532: value=0.6945
+data row 933558: value=0.7331
+data row 318284: value=0.2167
+data row 151935: value=0.4735
+data row 786675: value=0.3819
+data row 784730: value=0.5437
+data row 139464: value=0.2105
+data row 851464: value=0.3696
+data row 226673: value=0.3205
+data row 685054: value=0.4869
+data row 644738: value=0.0961
+data row 33983: value=0.1189
+data row 288080: value=0.6799
+data row 819951: value=0.9219
+data row 838296: value=0.0856
+data row 395970: value=0.5854
+data row 218505: value=0.8325
+data row 459682: value=0.2851
+data row 722080: value=0.5469
+data row 293317: value=0.9489
+data row 66769: value=0.6712
+data row 580913: value=0.8232
+data row 466115: value=0.7701
+data row 816810: value=0.6580
+data row 122917: value=0.3900
+data row 887002: value=0.4958
+data row 467241: value=0.1641
+data row 354776: value=0.0109
+data row 777310: value=0.0082
+data row 807371: value=0.4531
+data row 698521: value=0.7352
+data row 598414: value=0.9045
+data row 390589: value=0.9527
+data row 257645: value=0.3260
+data row 702563: value=0.9767
+data row 887862: value=0.2944
+data row 469427: value=0.0390
+data row 954208: value=0.9825
+data row 875641: value=0.2662
+data row 743574: value=0.3742
+data row 940847: value=0.4699
+data row 345882: value=0.9098
+data row 838533: value=0.1240
+data row 710789: value=0.6617
+data row 524415: value=0.2349
+data row 240824: value=0.2584
+data row 847126: value=0.8819
+data row 48577: value=0.7647
+data row 825239: value=0.5524
+data row 911367: value=0.9690
+data row 78007: value=0.5590
+data row 299807: value=0.4750
+data row 388919: value=0.0456
+data row 381515: value=0.2258
+data row 218811: value=0.7491
+data row 602981: value=0.5212
+data row 844881: value=0.7198
+data row 84751: value=0.3631
+data row 431939: value=0.0560
+data row 614983: value=0.0225
+data row 996270: value=0.4534
+data row 721750: value=0.8567
+data row 674499: value=0.8709
+data row 231840: value=0.1905
+data row 634407: value=0.5507
+data row 397857: value=0.8160
+data row 86114: value=0.3061
+data row 367543: value=0.1202
+data row 308651: value=0.9876
+data row 232214: value=0.3333
+data row 143311: value=0.8392
+data row 572811: value=0.1575
+data row 231036: value=0.1920
+data row 247900: value=0.0382
+data row 533255: value=0.4846
+data row 578275: value=0.2278
+data row 844742: value=0.4631
+data row 725299: value=0.1223
+data row 635321: value=0.9852
+data row 110991: value=0.8888
+data row 957277: value=0.2437
+data row 967249: value=0.0358
+data row 209991: value=0.7984
+data row 130181: value=0.6336
+data row 386863: value=0.8586
+data row 773891: value=0.8684
+data row 275114: value=0.4666
+data row 778193: value=0.7254
+data row 711046: value=0.5042
+data row 953361: value=0.0959
+data row 643292: value=0.4532
+data row 847108: value=0.1091
+data row 737324: value=0.3400
+data row 727087: value=0.4195
+data row 756130: value=0.4344
+data row 998321: value=0.6818
+data row 877902: value=0.3263
+data row 70387: value=0.9392
+data row 759213: value=0.5380
+data row 750641: value=0.0027
+data row 401271: value=0.5926
+data row 34079: value=0.9679
+data row 391391: value=0.3189
+data row 777920: value=0.8394
+data row 180288: value=0.4678
+data row 618636: value=0.6231
+data row 809177: value=0.1913
+data row 402967: value=0.8684
+data row 493396: value=0.1438
+data row 593452: value=0.4848
+data row 943298: value=0.7755
+data row 43928: value=0.3012
+data row 825540: value=0.6485
+data row 746737: value=0.1505
+data row 448695: value=0.3315
+data row 46427: value=0.2552
+data row 250625: value=0.3842
+data row 606048: value=0.4531
+data row 142100: value=0.1628
+data row 187056: value=0.6345
+data row 564385: value=0.8601
+data row 755142: value=0.7641
+data row 598153: value=0.4589
+data row 346953: value=0.6498
+data row 690407: value=0.1460
+data row 121832: value=0.6158
+data row 501489: value=0.8181
+data row 984907: value=0.9353
+data row 965381: value=0.3023
+data row 876819: value=0.7769
+data row 240348: value=0.0629
+data row 970806: value=0.8716
+data row 511719: value=0.5921
+data row 781645: value=0.6638
+data row 252030: value=0.0089
+data row 362581: value=0.4316
+data row 777349: value=0.3720
+data row 566470: value=0.4083
+data row 39860: value=0.3549
+data row 440517: value=0.3301
+data row 847965: value=0.8727
+data row 310302: value=0.3625
+data row 219362: value=0.0365
+data row 475645: value=0.8757
+data row 55558: value=0.6530
+data row 237390: value=0.4040
+data row 895932: value=0.9111
+data row 978199: value=0.8629
+data row 383808: value=0.1044
+data row 120344: value=0.1257
+data row 575320: value=0.7320
+data row 298849: value=0.5786
+data row 440045: value=0.3937
+data row 188240: value=0.2555
+data row 879575: value=0.1366
+data row 915954: value=0.9920
+data row 255428: value=0.0886
+data row 944327: value=0.1846
+data row 384022: value=0.4095
+data row 261557: value=0.0266
+data row 583910: value=0.0489
+data row 347626: value=0.3386
+data row 941780: value=0.5709
+data row 654336: value=0.6291
+data row 921580: value=0.2073
+data row 997393: value=0.4344
+data row 352106: value=0.2771
+data row 765659: value=0.2447
+data row 921054: value=0.5547
+data row 379862: value=0.0914
+data row 188268: value=0.3774
+data row 574972: value=0.3303
+data row 539779: value=0.7608
+data row 194508: value=0.1254
+data row 762519: value=0.0028
+data row 306196: value=0.1499
+data row 60939: value=0.5319
+data row 72552: value=0.6194
+data row 394765: value=0.5236
+data row 438313: value=0.5414
+data row 631594: value=0.0377
+data row 756997: value=0.9586
+data row 662847: value=0.2885
+data row 864226: value=0.3974
+data row 17056: value=0.7740
+data row 463199: value=0.8431
+data row 710006: value=0.6521
+data row 195026: value=0.9865
+data row 486001: value=0.7708
+data row 10171: value=0.1953
+data row 426700: value=0.9971
+data row 251073: value=0.6836
+data row 897743: value=0.5360
+data row 50778: value=0.9464
+data row 711455: value=0.0269
+data row 929068: value=0.0604
+data row 552794: value=0.9374
+data row 194390: value=0.6536
+data row 601033: value=0.5409
+data row 711953: value=0.1478
+data row 623126: value=0.9601
+data row 830973: value=0.7162
+data row 779737: value=0.3001
+data row 566354: value=0.3882
+data row 951461: value=0.5484
+data row 580287: value=0.1777
+data row 659714: value=0.1780
+data row 362504: value=0.7606
+data row 232616: value=0.2711
+data row 410749: value=0.1111
+data row 275544: value=0.8166
+data row 669875: value=0.4576
+data row 249579: value=0.8046
+data row 685350: value=0.9900
+data row 197125: value=0.9119
+data row 310306: value=0.3266
+data row 363939: value=0.3476
+data row 512876: value=0.9593
+data row 169081: value=0.9178
+data row 769413: value=0.5314
+data row 696518: value=0.5883
+data row 877705: value=0.8746
+data row 404906: value=0.9487
+data row 56896: value=0.6254
+data row 524100: value=0.0900
+data row 755346: value=0.6724
+data row 615328: value=0.4990
+data row 310147: value=0.3438
+data row 84928: value=0.7094
+data row 787989: value=0.4316
+data row 146720: value=0.5368
+data row 211160: value=0.7346
+data row 732084: value=0.9420
+data row 220740: value=0.8935
+data row 739894: value=0.6630
+data row 985082: value=0.6758
+data row 807044: value=0.9781
+data row 563579: value=0.7970
+data row 963192: value=0.8876
+data row 258267: value=0.8928
+data row 706968: value=0.4234
+data row 147226: value=0.1298
+data row 526359: value=0.7287
+data row 743279: value=0.6885
+data row 63358: value=0.7012
+data row 729803: value=0.9216
+data row 500082: value=0.3508
+data row 657853: value=0.8223
+data row 194871: value=0.0667
+data row 96652: value=0.0316
+data row 546566: value=0.6504
+data row 982416: value=0.3780
+data row 722314: value=0.7157
+data row 559866: value=0.1003
+data row 236583: value=0.3428
+data row 869258: value=0.5451
+data row 651417: value=0.7445
+data row 533822: value=0.1280
+data row 989751: value=0.1056
+data row 64800: value=0.0114
+data row 28587: value=0.7635
+data row 452929: value=0.1904
+data row 133522: value=0.7874
+data row 462747: value=0.8691
+data row 853318: value=0.8319
+data row 534201: value=0.0317
+data row 216763: value=0.1735
+data row 499692: value=0.2101
+data row 732091: value=0.8128
+data row 570027: value=0.4812
+data row 427917: value=0.6502
+data row 449858: value=0.6438
+data row 120849: value=0.3157
+data row 225422: value=0.7180
+data row 157555: value=0.2412
+data row 273253: value=0.6878
+data row 710738: value=0.6226
+data row 503832: value=0.2501
+data row 670039: value=0.4221
+data row 569586: value=0.9790
+data row 109024: value=0.9779
+data row 750958: value=0.7925
+data row 838336: value=0.5968
+data row 69866: value=0.3593
+data row 319464: value=0.1067
+data row 443613: value=0.9939
+data row 972154: value=0.2667
+data row 496134: value=0.4719
+data row 560455: value=0.4783
+data row 490998: value=0.5210
+data row 110728: value=0.7223
+data row 173252: value=0.4956
+data row 88795: value=0.3949
+data row 927223: value=0.7995
+data row 862165: value=0.9524
+data row 272112: value=0.4623
+data row 878919: value=0.7716
+data row 694750: value=0.5216
+data row 692169: value=0.1626
+data row 433750: value=0.3116
+data row 254196: value=0.9914
+data row 349192: value=0.0218
+data row 323667: value=0.5007
+data row 172771: value=0.4507
+data row 567634: value=0.5412
+data row 710238: value=0.3113
+data row 265543: value=0.1011
+data row 30859: value=0.7983
+data row 357904: value=0.1539
+data row 442164: value=0.5129
+data row 899131: value=0.4229
+data row 289156: value=0.1995
+data row 901040: value=0.3269
+data row 159863: value=0.4168
+data row 136664: value=0.8836
+data row 300978: value=0.9561
+data row 231236: value=0.7635
+data row 454428: value=0.3270
+data row 294871: value=0.8623
+data row 408406: value=0.3082
+data row 987281: value=0.3497
+data row 42709: value=0.6449
+data row 473944: value=0.5970
+data row 812413: value=0.0259
+data row 361916: value=0.5308
+data row 905054: value=0.5999
+data row 970402: value=0.1932
+data row 343773: value=0.4346
+data row 871316: value=0.4857
+data row 606941: value=0.3792
+data row 880636: value=0.7081
+data row 503679: value=0.1417
+data row 130118: value=0.0462
+data row 719677: value=0.2802
+data row 123758: value=0.4327
+data row 895255: value=0.2368
+data row 441701: value=0.1377
+data row 351970: value=0.6411
+data row 129970: value=0.4915
+data row 88222: value=0.6475
+data row 306520: value=0.0555
+data row 863521: value=0.4447
+data row 520369: value=0.0670
+data row 361739: value=0.9853
+data row 879389: value=0.5964
+data row 949053: value=0.5400
+data row 722140: value=0.9612
+data row 335892: value=0.8525
+data row 792929: value=0.9631
+data row 544497: value=0.8696
+data row 532989: value=0.1234
+data row 701598: value=0.4872
+data row 969464: value=0.3456
+data row 357294: value=0.2925
+data row 294614: value=0.3675
+data row 155510: value=0.3049
+data row 452571: value=0.3100
+data row 545524: value=0.9704
+data row 272758: value=0.9419
+data row 259409: value=0.7202
+data row 890957: value=0.4013
+data row 278950: value=0.9382
+data row 513365: value=0.4947
+data row 978965: value=0.2750
+data row 147417: value=0.9801
+data row 769606: value=0.8707
+data row 35987: value=0.4726
+data row 505905: value=0.5016
+data row 684951: value=0.2574
+data row 68533: value=0.5313
+data row 939583: value=0.8100
+data row 858890: value=0.3498
+data row 315808: value=0.0651
+data row 480966: value=0.9502
+data row 641802: value=0.1174
+data row 736191: value=0.2377
+data row 517747: value=0.9704
+data row 986138: value=0.7271
+data row 462727: value=0.7277
+data row 366599: value=0.5533
+data row 751891: value=0.3548
+data row 166646: value=0.4159
+data row 213289: value=0.8453
+data row 761666: value=0.1991
+data row 467486: value=0.0406
+data row 143493: value=0.6725
+data row 567609: value=0.7286
+data row 322564: value=0.0583
+data row 266706: value=0.8600
+data row 948046: value=0.1939
+data row 10335: value=0.8037
+data row 722901: value=0.9888
+data row 778900: value=0.7631
+data row 172953: value=0.2903
+data row 313142: value=0.3388
+data row 147844: value=0.7159
+data row 892031: value=0.6683
+data row 771496: value=0.7395
+data row 631694: value=0.6879
+data row 893483: value=0.5079
+data row 281553: value=0.5879
+data row 158110: value=0.6945
+data row 115264: value=0.8081
+data row 813099: value=0.0871
+data row 778831: value=0.0499
+data row 50496: value=0.9163
+data row 415667: value=0.4420
+data row 233115: value=0.3786
+data row 774996: value=0.2269
+data row 366611: value=0.0660
+data row 411035: value=0.0090
+data row 110487: value=0.5981
+data row 791728: value=0.2202
+data row 484262: value=0.1868
+data row 139216: value=0.2064
+data row 457535: value=0.9096
+data row 149700: value=0.0564
+data row 191267: value=0.4978
+data row 940215: value=0.9477
+data row 658281: value=0.0798
+data row 75820: value=0.7114
+data row 475943: value=0.2076
+data row 765620: value=0.0599
+data row 418895: value=0.3846
+data row 287711: value=0.0274
+data row 28497: value=0.1892
+data row 827661: value=0.5143
+data row 474481: value=0.1676
+data row 192271: value=0.6632
+data row 899957: value=0.8177
+data row 831571: value=0.6834
+data row 28543: value=0.4685
+data row 720497: value=0.0998
+data row 379311: value=0.3775
+data row 775330: value=0.0891
+data row 908178: value=0.9237
+data row 318675: value=0.0373
+data row 889483: value=0.2234
+data row 968257: value=0.2665
+data row 232802: value=0.4042
+data row 952597: value=0.5151
+data row 541453: value=0.1549
+data row 103167: value=0.3048
+data row 893927: value=0.2432
+data row 30575: value=0.2541
+data row 73350: value=0.6101
+data row 36172: value=0.6257
+data row 332820: value=0.8083
+data row 995488: value=0.9021
+data row 60886: value=0.1418
+data row 53539: value=0.4019
+data row 274248: value=0.5013
+data row 189654: value=0.0024
+data row 993404: value=0.2084
+data row 176030: value=0.9061
+data row 843175: value=0.1329
+data row 285122: value=0.1674
+data row 942499: value=0.5340
+data row 881187: value=0.3340
+data row 31574: value=0.5092
+data row 841314: value=0.9561
+data row 944461: value=0.2161
+data row 620697: value=0.3686
+data row 815537: value=0.6802
+data row 30775: value=0.6062
+data row 647886: value=0.7138
+data row 17136: value=0.1812
+data row 304275: value=0.9612
+data row 629687: value=0.6084
+data row 950678: value=0.9835
+data row 344634: value=0.3749
+data row 666172: value=0.9023
+data row 605542: value=0.4272
+data row 837066: value=0.1944
+data row 147896: value=0.7519
+data row 151101: value=0.7504
+data row 274845: value=0.3848
+data row 918567: value=0.4979
+data row 937257: value=0.7607
+data row 159640: value=0.7405
+data row 710058: value=0.9993
+data row 225707: value=0.6342
+data row 674165: value=0.5252
+data row 254868: value=0.3542
+data row 653705: value=0.8355
+data row 266781: value=0.9883
+data row 271094: value=0.1598
+data row 743258: value=0.6424
+data row 820784: value=0.5843
+data row 155567: value=0.9399
+data row 668306: value=0.8059
+data row 454698: value=0.9863
+data row 788687: value=0.3624
+data row 758193: value=0.5251
+data row 933361: value=0.4195
+data row 740627: value=0.9970
+data row 352879: value=0.4944
+data row 493954: value=0.0713
+data row 165257: value=0.7138
+data row 189523: value=0.5108
+data row 40736: value=0.2578
+data row 787903: value=0.4630
+data row 412835: value=0.5794
+data row 453106: value=0.7865
+data row 555674: value=0.6833
+data row 366690: value=0.9535
+data row 820415: value=0.9545
+data row 742547: value=0.8226
+data row 797306: value=0.5719
+data row 796562: value=0.8737
+data row 655796: value=0.8645
+data row 974129: value=0.8464
+data row 406020: value=0.4648
+data row 732355: value=0.7796
+data row 467178: value=0.3142
+data row 538550: value=0.5773
+data row 499469: value=0.8822
+data row 113472: value=0.0715
+data row 680132: value=0.8416
+data row 723317: value=0.5357
+data row 153025: value=0.9000
+data row 232887: value=0.0989
+data row 367633: value=0.9347
+data row 246405: value=0.3140
+data row 50958: value=0.4000
+data row 873954: value=0.5730
+data row 869714: value=0.7160
+data row 115221: value=0.2860
+data row 570019: value=0.6528
+data row 361212: value=0.9687
+data row 310707: value=0.2901
+data row 508870: value=0.1842
+data row 589962: value=0.1817
+data row 835185: value=0.2679
+data row 742518: value=0.3685
+data row 600543: value=0.8802
+data row 560365: value=0.5333
+data row 236315: value=0.6742
+data row 577355: value=0.7622
+data row 281666: value=0.1315
+data row 874311: value=0.7328
+data row 565955: value=0.1560
+data row 382441: value=0.2824
+data row 554009: value=0.0844
+data row 205180: value=0.2470
+data row 156635: value=0.9682
+data row 34243: value=0.9615
+data row 866150: value=0.4834
+data row 282427: value=0.2356
+data row 400518: value=0.6543
+data row 754765: value=0.3092
+data row 555720: value=0.3512
+data row 810442: value=0.5091
+data row 560625: value=0.2792
+data row 655344: value=0.9707
+data row 932281: value=0.9244
+data row 194719: value=0.4987
+data row 421102: value=0.4305
+data row 191980: value=0.0791
+data row 446539: value=0.3655
+data row 439454: value=0.1846
+data row 468712: value=0.9482
+data row 617496: value=0.3521
+data row 523309: value=0.3593
+data row 91564: value=0.3272
+data row 659927: value=0.8492
+data row 186691: value=0.0430
+data row 85684: value=0.4641
+data row 762344: value=0.0658
+data row 962271: value=0.5499
+data row 892466: value=0.6738
+data row 234882: value=0.6182
+data row 843153: value=0.9288
+data row 525248: value=0.5305
+data row 521409: value=0.1092
+data row 973490: value=0.1735
+data row 544522: value=0.6919
+data row 354035: value=0.4123
+data row 152701: value=0.8556
+data row 497282: value=0.9255
+data row 757777: value=0.7066
+data row 663292: value=0.7715
+data row 447713: value=0.5961
+data row 949627: value=0.9545
+data row 678579: value=0.0665
+data row 356724: value=0.0372
+data row 717127: value=0.3110
+data row 714079: value=0.3567
+data row 340193: value=0.4551
+data row 628090: value=0.9223
+data row 538058: value=0.1347
+data row 798637: value=0.6752
+data row 450833: value=0.2475
+data row 834508: value=0.0968
+data row 348473: value=0.0820
+data row 528075: value=0.8135
+data row 600094: value=0.2357
+data row 993870: value=0.9973
+data row 917979: value=0.4381
+data row 569191: value=0.7266
+data row 635639: value=0.6339
+data row 571339: value=0.2268
+data row 586953: value=0.2349
+data row 166859: value=0.5574
+data row 608224: value=0.1093
+data row 990458: value=0.4713
+data row 159105: value=0.2123
+data row 612788: value=0.7021
+data row 566851: value=0.4114
+data row 154035: value=0.4188
+data row 637775: value=0.3139
+data row 154276: value=0.1121
+data row 974991: value=0.9428
+data row 648305: value=0.8613
+data row 59393: value=0.7479
+data row 164480: value=0.5759
+data row 796054: value=0.6069
+data row 455394: value=0.3245
+data row 944852: value=0.7736
+data row 946864: value=0.1615
+data row 302399: value=0.4025
+data row 862465: value=0.0791
+data row 136522: value=0.3770
+data row 269673: value=0.4779
+data row 429699: value=0.3063
+data row 461723: value=0.1451
+data row 35582: value=0.8087
+data row 264484: value=0.6015
+data row 750539: value=0.3257
+data row 692154: value=0.7749
+data row 468663: value=0.0605
+data row 576706: value=0.2452
+data row 782142: value=0.6597
+data row 177142: value=0.9058
+data row 482894: value=0.3643
+data row 899385: value=0.4534
+data row 864593: value=0.9550
+data row 953689: value=0.6339
+data row 599513: value=0.7380
+data row 96433: value=0.2471
+data row 143273: value=0.1532
+data row 395344: value=0.2422
+data row 762586: value=0.6403
+data row 481975: value=0.7587
+data row 813741: value=0.9761
+data row 222939: value=0.0386
+data row 314698: value=0.3044
+data row 294586: value=0.8052
+data row 624386: value=0.3445
+data row 283886: value=0.5477
+data row 722977: value=0.7435
+data row 131136: value=0.4746
+data row 959276: value=0.6214
+data row 125562: value=0.8790
+data row 563336: value=0.4237
+data row 22273: value=0.6571
+data row 377786: value=0.1799
+data row 353817: value=0.3838
+data row 710005: value=0.0372
+data row 671097: value=0.6694
+data row 117859: value=0.8150
+data row 868705: value=0.0850
+data row 562400: value=0.4403
+data row 826231: value=0.6546
+data row 326623: value=0.9434
+data row 543140: value=0.1357
+data row 503543: value=0.9890
+data row 137644: value=0.2417
+data row 469571: value=0.0138
+data row 837696: value=0.6382
+data row 177620: value=0.1106
+data row 588330: value=0.7186
+data row 324981: value=0.3367
+data row 106379: value=0.5992
+data row 187266: value=0.3547
+data row 866932: value=0.5683
+data row 26122: value=0.9701
+data row 226321: value=0.6917
+data row 107808: value=0.4933
+data row 170148: value=0.9904
+data row 529975: value=0.9191
+data row 610892: value=0.5816
+data row 613059: value=0.5435
+data row 873890: value=0.7457
+data row 239447: value=0.8480
+data row 82047: value=0.5177
+data row 48907: value=0.6864
+data row 724772: value=0.8993
+data row 760273: value=0.0607
+data row 545543: value=0.7750
+data row 180983: value=0.5110
+data row 890406: value=0.8396
+data row 914709: value=0.1609
+data row 154277: value=0.9810
+data row 436658: value=0.1118
+data row 424012: value=0.5211
+data row 874942: value=0.1561
+data row 245375: value=0.2154
+data row 930232: value=0.1260
+data row 77371: value=0.0242
+data row 260243: value=0.5579
+data row 79893: value=0.1269
+data row 73529: value=0.4900
+data row 896871: value=0.0146
+data row 738464: value=0.0370
+data row 12307: value=0.7449
+data row 898014: value=0.3981
+data row 360702: value=0.9451
+data row 654061: value=0.0981
+data row 864487: value=0.7037
+data row 334998: value=0.3234
+data row 732374: value=0.3233
+data row 568808: value=0.7271
+data row 849768: value=0.8731
+data row 706881: value=0.5099
+data row 153306: value=0.7016
+data row 738343: value=0.1236
+data row 874601: value=0.8679
+data row 961431: value=0.6988
+data row 755282: value=0.0966
+data row 284240: value=0.3713
+data row 81929: value=0.5373
+data row 177413: value=0.4521
+data row 336396: value=0.3668
+data row 248255: value=0.0257
+data row 810031: value=0.0602
+data row 410944: value=0.7169
+data row 746908: value=0.6263
+data row 311365: value=0.3155
+data row 844469: value=0.2366
+data row 679981: value=0.2756
+data row 127310: value=0.1822
+data row 312742: value=0.2649
+data row 125049: value=0.4136
+data row 422513: value=0.0059
+data row 152597: value=0.6649
+data row 927867: value=0.8501
+data row 693370: value=0.1710
+data row 158992: value=0.3363
+data row 674573: value=0.6054
+data row 283926: value=0.1523
+data row 405325: value=0.3429
+data row 496621: value=0.2491
+data row 802197: value=0.6888
+data row 338775: value=0.1702
+data row 859411: value=0.0772
+data row 282215: value=0.0438
+data row 573356: value=0.8638
+data row 399427: value=0.6745
+data row 956748: value=0.8982
+data row 574963: value=0.5365
+data row 423379: value=0.9599
+data row 968579: value=0.1466
+data row 947853: value=0.8544
+data row 349953: value=0.7823
+data row 835744: value=0.9851
+data row 50671: value=0.4502
+data row 591274: value=0.7682
+data row 379763: value=0.2176
+data row 241040: value=0.9749
+data row 515172: value=0.2823
+data row 425932: value=0.9958
+data row 132121: value=0.1856
+data row 449630: value=0.8842
+data row 737108: value=0.9844
+data row 374912: value=0.7416
+data row 436012: value=0.8277
+data row 457551: value=0.9344
+data row 768911: value=0.8107
+data row 301592: value=0.1821
+data row 86282: value=0.7911
+data row 840363: value=0.7089
+data row 565322: value=0.5881
+data row 888058: value=0.5543
+data row 577250: value=0.3819
+data row 156689: value=0.2943
+data row 567580: value=0.8622
+data row 364886: value=0.0774
+data row 868345: value=0.4009
+data row 583534: value=0.7530
+data row 875036: value=0.2147
+data row 357491: value=0.0329
+data row 718673: value=0.0102
+data row 827292: value=0.8271
+data row 877580: value=0.4815
+data row 140532: value=0.5799
+data row 697740: value=0.8724
+data row 207868: value=0.0705
+data row 348640: value=0.5312
+data row 551300: value=0.7417
+data row 914221: value=0.9155
+data row 729306: value=0.9610
+data row 444184: value=0.4569
+data row 527390: value=0.9760
+data row 831833: value=0.5479
+data row 822478: value=0.2939
+data row 267849: value=0.3891
+data row 693516: value=0.9580
+data row 15634: value=0.7572
+data row 808370: value=0.5106
+data row 889322: value=0.2400
+data row 649379: value=0.8011
+data row 171624: value=0.9856
+data row 608781: value=0.0530
+data row 743733: value=0.6266
+data row 456250: value=0.3490
+data row 387758: value=0.4781
+data row 187414: value=0.5286
+data row 997545: value=0.6109
+data row 944729: value=0.4144
+data row 733601: value=0.2695
+data row 625328: value=0.7388
+data row 829912: value=0.2179
+data row 281952: value=0.3109
+data row 542100: value=0.6658
+data row 425256: value=0.8532
+data row 584821: value=0.6599
+data row 738496: value=0.7389
+data row 503840: value=0.0475
+data row 891819: value=0.0317
+data row 305595: value=0.1220
+data row 581326: value=0.5274
+data row 792698: value=0.2141
+data row 479553: value=0.7769
+data row 596212: value=0.6220
+data row 208499: value=0.8347
+data row 599128: value=0.9260
+data row 230272: value=0.7329
+data row 206734: value=0.4302
+data row 759758: value=0.8317
+data row 988323: value=0.9012
+data row 78174: value=0.5827
+data row 656433: value=0.4395
+data row 146707: value=0.1045
+data row 671294: value=0.9446
+data row 727469: value=0.3233
+data row 263181: value=0.2658
+data row 80790: value=0.6292
+data row 238680: value=0.0182
+data row 337584: value=0.5235
+data row 590690: value=0.8265
+data row 432661: value=0.2250
+data row 220134: value=0.3424
+data row 108161: value=0.6974
+data row 503367: value=0.0347
+data row 733201: value=0.2427
+data row 876685: value=0.1063
+data row 695270: value=0.5956
+data row 565347: value=0.4575
+data row 894010: value=0.6894
+data row 222185: value=0.4709
+data row 161262: value=0.9328
+data row 284725: value=0.6956
+data row 485057: value=0.9157
+data row 553320: value=0.6152
+data row 391746: value=0.6490
+data row 727853: value=0.5032
+data row 249213: value=0.9663
+data row 84785: value=0.0852
+data row 570371: value=0.4634
+data row 920527: value=0.2042
+data row 941242: value=0.6116
+data row 168563: value=0.1840
+data row 429019: value=0.5866
+data row 475512: value=0.1124
+data row 345263: value=0.6896
+data row 319854: value=0.7154
+data row 624074: value=0.3206
+data row 949236: value=0.8224
+data row 845948: value=0.9651
+data row 421394: value=0.3004
+data row 940572: value=0.6744
+data row 183026: value=0.8653
+data row 886311: value=0.8016
+data row 962071: value=0.1207
+data row 915004: value=0.3082
+data row 697610: value=0.4651
+data row 646649: value=0.6728
+data row 292765: value=0.4104
+data row 336270: value=0.3478
+data row 141791: value=0.9157
+data row 654791: value=0.1311
+data row 366750: value=0.7951
+data row 194381: value=0.1694
+data row 273025: value=0.5655
+data row 533891: value=0.8910
+data row 836144: value=0.6405
+data row 742032: value=0.6868
+data row 212592: value=0.1557
+data row 913999: value=0.5139
+data row 301052: value=0.9966
+data row 591838: value=0.2984
+data row 219346: value=0.5359
+data row 526119: value=0.5958
+data row 511490: value=0.2745
+data row 934333: value=0.8404
+data row 71514: value=0.4707
+data row 336408: value=0.5970
+data row 98131: value=0.2759
+data row 145507: value=0.8009
+data row 594059: value=0.6509
+data row 150446: value=0.9733
+data row 991242: value=0.5429
+data row 549576: value=0.0402
+data row 610011: value=0.9814
+data row 369583: value=0.9458
+data row 465488: value=0.3204
+data row 347302: value=0.0000
+data row 183780: value=0.3502
+data row 531740: value=0.4361
+data row 110324: value=0.4980
+data row 782881: value=0.6899
