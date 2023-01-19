@@ -123,3 +123,4 @@ jobs:
           # Default: ''
           # tag_push: "--force"
 # retry count increased to 5
+VERSION = '0.0.16'  # temp
