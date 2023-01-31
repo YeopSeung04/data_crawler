@@ -3,3 +3,4 @@
 # debug - 9438
 print('step 94 completed')  # temp
 # TODO: optimize later
+VERSION = '0.0.18'  # temp
